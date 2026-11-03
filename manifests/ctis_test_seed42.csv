@@ -1,0 +1,997 @@
+dataset,source,member,label,family,duration
+CTIS,CTIS/data/audio.zip,audio/C0117/【南音洞箫】筒音 自然衰减 力度弱 第一遍.wav,0,wind,7.625011338
+CTIS,CTIS/data/audio.zip,audio/C0309/【葫芦丝】演奏技法 三吐 第一遍.wav,0,wind,27.145986395
+CTIS,CTIS/data/audio.zip,audio/C0311/【俄比】音阶 自然衰减 力度中强 第二遍.wav,0,wind,61.359410431
+CTIS,CTIS/data/audio.zip,audio/C0308/【吐良】演奏技巧 气滑音 第二遍.wav,0,wind,17.611564626
+CTIS,CTIS/data/audio.zip,audio/C0296/【唢呐】演奏技法 （biyao） 第一遍.wav,0,wind,5.402166667
+CTIS,CTIS/data/audio.zip,audio/C0263/【中音笙】演奏技法 和弦 单吐 力度强 第二遍.wav,0,wind,56.762166667
+CTIS,CTIS/data/audio.zip,audio/C0100/【短箫（传统）】音阶 速度慢 力度强 第二遍.wav,0,wind,33.080181406
+CTIS,CTIS/data/audio.zip,audio/C0263/【中音笙】乐曲片段 三吐技法.wav,0,wind,10.294812500
+CTIS,CTIS/data/audio.zip,audio/C0093/【中音横笛】音阶 中速 力度强 第一遍.wav,0,wind,44.539501134
+CTIS,CTIS/data/audio.zip,audio/C0237/【G调梆笛】演奏技法 下滑音 中强力度 第二遍.wav,0,wind,20.000875000
+CTIS,CTIS/data/audio.zip,audio/C0096/【小筚篥】筒音 自然衰减 力度中强 第二遍.wav,0,wind,6.796099773
+CTIS,CTIS/data/audio.zip,audio/C0296/【唢呐】演奏技巧 ye音 第二遍.wav,0,wind,20.994791667
+CTIS,CTIS/data/audio.zip,audio/C0237/【G调梆笛】演奏技法 三吐 中强力度 第一遍.wav,0,wind,11.437687500
+CTIS,CTIS/data/audio.zip,audio/C0311/【俄比】演奏技法 气震音 第一遍.wav,0,wind,62.126757370
+CTIS,CTIS/data/audio.zip,audio/C0281/【G调新笛】演奏技法 双吐 第一遍.wav,0,wind,15.028253968
+CTIS,CTIS/data/audio.zip,audio/C0281/【G调新笛】演奏技法 打音 第一遍.wav,0,wind,17.651247166
+CTIS,CTIS/data/audio.zip,audio/C0090/【大笒】演奏技法 打音 第二遍.wav,0,wind,9.750000000
+CTIS,CTIS/data/audio.zip,audio/C0308/【吐良】音阶 慢速 力度弱 第二遍.wav,0,wind,69.172154195
+CTIS,CTIS/data/audio.zip,audio/C0095/【长唢呐】音阶 自然衰减 力度中强 第一遍.wav,0,wind,61.034943311
+CTIS,CTIS/data/audio.zip,audio/C0124/【大吹】音阶 自然衰减 力度中强 第一遍.wav,0,wind,32.205283447
+CTIS,CTIS/data/audio.zip,audio/C0309/【葫芦丝】演奏技法 滑音 第二遍.wav,0,wind,46.463333333
+CTIS,CTIS/data/audio.zip,audio/C0093/【中音横笛】音阶 速度慢 力度弱 第一遍.wav,0,wind,55.743197279
+CTIS,CTIS/data/audio.zip,audio/C0310/【F调巴乌】音阶 慢速 力度中强 第一遍.wav,0,wind,42.634557823
+CTIS,CTIS/data/audio.zip,audio/C0263/【中音笙】演奏技法 碎吐 第一遍.wav,0,wind,33.159958333
+CTIS,CTIS/data/audio.zip,audio/C0296/【唢呐】演奏技巧 哭音 第一遍.wav,0,wind,5.640854167
+CTIS,CTIS/data/audio.zip,audio/C0308/【吐良】筒音 自然衰减 力度弱 第一遍.wav,0,wind,6.280430839
+CTIS,CTIS/data/audio.zip,audio/C0282/【萧】音阶 自然衰减 力度中强 第一遍.wav,0,wind,28.576349206
+CTIS,CTIS/data/audio.zip,audio/C0309/【葫芦丝】音阶 自然衰减 力度中强 第二遍.wav,0,wind,55.815283447
+CTIS,CTIS/data/audio.zip,audio/C0265/【管子】乐曲片段  柳出新.wav,0,wind,105.621587302
+CTIS,CTIS/data/audio.zip,audio/C0093/【中音横笛】音阶 速度慢 力度强 第二遍.wav,0,wind,64.446598639
+CTIS,CTIS/data/audio.zip,audio/C0281/【G调新笛】演奏技法 循环换气 第一遍.wav,0,wind,6.830634921
+CTIS,CTIS/data/audio.zip,audio/C0303/【小闷笛】音阶 中速 力度强 第一遍.wav,0,wind,15.394285714
+CTIS,CTIS/data/audio.zip,audio/C0090/【大笒】演奏技法 颤音 第二遍.wav,0,wind,22.875011338
+CTIS,CTIS/data/audio.zip,audio/C0243/【高音键笙】演奏技法 传统和音 第二遍.wav,0,wind,25.521156463
+CTIS,CTIS/data/audio.zip,audio/C0099/【短箫】演奏技法 长音 第一遍.wav,0,wind,27.045396825
+CTIS,CTIS/data/audio.zip,audio/C0237/【G调梆笛】演奏技法 附滑音 中强力度 第二遍.wav,0,wind,11.558958333
+CTIS,CTIS/data/audio.zip,audio/C0187/【高音唢呐】筒音 自然衰减 力度中强 第一遍.wav,0,wind,3.790362812
+CTIS,CTIS/data/audio.zip,audio/C0303/【小闷笛】筒音 自然衰减 力度强 第一遍.wav,0,wind,12.639229025
+CTIS,CTIS/data/audio.zip,audio/C0117/【南音洞箫】音阶 速度慢 力度弱 第二遍.wav,0,wind,40.250000000
+CTIS,CTIS/data/audio.zip,audio/C0123/【南嗳仔】演奏技法 华彩 第二遍.wav,0,wind,39.941337868
+CTIS,CTIS/data/audio.zip,audio/C0316/【侗巴】演奏技法 指颤音 第二遍.wav,0,wind,17.312176871
+CTIS,CTIS/data/audio.zip,audio/C0257/【低音加键唢呐】筒音 自然衰减 力度强  第二遍.wav,0,wind,8.735941043
+CTIS,CTIS/data/audio.zip,audio/C0310/【F调巴乌】音阶 慢速 力度弱 第一遍.wav,0,wind,49.024399093
+CTIS,CTIS/data/audio.zip,audio/C0264/【低音笙】音阶 力度弱 演奏技法 单吐 第一遍.wav,0,wind,57.657392290
+CTIS,CTIS/data/audio.zip,audio/C0296/【唢呐】演奏技巧 燕音 第一遍.wav,0,wind,13.483125000
+CTIS,CTIS/data/audio.zip,audio/C0310/【F调巴乌】音阶 自然衰减 力度中强 第二遍.wav,0,wind,45.149297052
+CTIS,CTIS/data/audio.zip,audio/C0263/【中音笙】乐曲片段 双吐技法.wav,0,wind,11.362854167
+CTIS,CTIS/data/audio.zip,audio/C0095/【长唢呐】筒音 自然衰减 力度弱 第二遍.wav,0,wind,3.954739229
+CTIS,CTIS/data/audio.zip,audio/C0093/【中音横笛】音阶 速度慢 力度中强 第一遍.wav,0,wind,87.685623583
+CTIS,CTIS/data/audio.zip,audio/C0091/【高音横笛】音阶 自然衰减 力度中强  第一遍.wav,0,wind,95.250000000
+CTIS,CTIS/data/audio.zip,audio/C0283/【埙】筒音 自然衰减 力度弱 第一遍.wav,0,wind,3.873741497
+CTIS,CTIS/data/audio.zip,audio/C0093/【中音横笛】演奏技法 打音 第一遍.wav,0,wind,3.049818594
+CTIS,CTIS/data/audio.zip,audio/C0188/【低音唢呐】音阶 中速 力度强 第一遍.wav,0,wind,8.630294785
+CTIS,CTIS/data/audio.zip,audio/C0237/【G调梆笛】演奏技法 剁音 中强力度 第二遍.wav,0,wind,6.982708333
+CTIS,CTIS/data/audio.zip,audio/C0094/【唢呐】音阶 速度慢 力度强 第一遍.wav,0,wind,22.465986395
+CTIS,CTIS/data/audio.zip,audio/C0306/【拉祜族葫芦笙】音阶 速度慢 力度强 第一遍.wav,0,wind,50.172312925
+CTIS,CTIS/data/audio.zip,audio/C0309/【葫芦丝】演奏技法 打音 第二遍.wav,0,wind,13.725328798
+CTIS,CTIS/data/audio.zip,audio/C0123/【南嗳仔】特有演奏技法 跟呛吐音 第二遍.wav,0,wind,2.199433107
+CTIS,CTIS/data/audio.zip,audio/C0244/【传统笙】演奏技法 单吐 第一遍.wav,0,wind,8.504399093
+CTIS,CTIS/data/audio.zip,audio/C0124/【大吹】筒音 自然衰减 力度中强 第二遍.wav,0,wind,4.247301587
+CTIS,CTIS/data/audio.zip,audio/C0244/【传统笙】演奏技法 双吐 第一遍.wav,0,wind,7.350975057
+CTIS,CTIS/data/audio.zip,audio/C0282/【萧】筒音 自然衰减 力度弱 第一遍.wav,0,wind,5.428140590
+CTIS,CTIS/data/audio.zip,audio/C0099/【短箫】音阶 中速 力度强 第二遍.wav,0,wind,35.006870748
+CTIS,CTIS/data/audio.zip,audio/C0237/【G调梆笛】音阶 中速 弱奏力度 第二遍.wav,0,wind,9.437233560
+CTIS,CTIS/data/audio.zip,audio/C0311/【俄比】音阶 速度快 力度强 第一遍.wav,0,wind,4.232063492
+CTIS,CTIS/data/audio.zip,audio/C0282/【萧】演奏技巧 颤音 第一遍.wav,0,wind,9.632698413
+CTIS,CTIS/data/audio.zip,audio/C0099/【短箫】演奏技法 打音 第二遍.wav,0,wind,9.453106576
+CTIS,CTIS/data/audio.zip,audio/C0094/【唢呐】音阶 速度慢 力度强 第二遍.wav,0,wind,21.953242630
+CTIS,CTIS/data/audio.zip,audio/C0099/【短箫】音阶 自然衰减 力度中强 第二遍.wav,0,wind,72.008730159
+CTIS,CTIS/data/audio.zip,audio/C0095/【长唢呐】演奏技法 滑音 第二遍.wav,0,wind,16.702970522
+CTIS,CTIS/data/audio.zip,audio/C0187/【高音唢呐】演奏技法 华彩 第一遍.wav,0,wind,19.638231293
+CTIS,CTIS/data/audio.zip,audio/C0263/【中音笙】演奏技法 细花舌 第一遍.wav,0,wind,25.406666667
+CTIS,CTIS/data/audio.zip,audio/C0123/【南嗳仔】特有演奏技法 倚音 第一遍.wav,0,wind,1.764149660
+CTIS,CTIS/data/audio.zip,audio/C0201/【小芦笙】音阶 第一遍.wav,0,wind,41.700680272
+CTIS,CTIS/data/audio.zip,audio/C0263/【中音笙】音阶 演奏技法 三吐 力度强 第一遍.wav,0,wind,73.757875000
+CTIS,CTIS/data/audio.zip,audio/C0097/【中音筚篥】音阶 自然衰减 力度中强 第一遍.wav,0,wind,39.226213152
+CTIS,CTIS/data/audio.zip,audio/C0101/【洞箫】音阶 速度慢 力度中强 第一遍.wav,0,wind,42.483106576
+CTIS,CTIS/data/audio.zip,audio/C0281/【G调新笛】演奏技法 历音 第一遍.wav,0,wind,7.108662132
+CTIS,CTIS/data/audio.zip,audio/C0305/【德】音阶 速度慢 力度弱 第一遍.wav,0,wind,38.995102041
+CTIS,CTIS/data/audio.zip,audio/C0243/【高音键笙】音阶 中速 力度强 第二遍.wav,0,wind,69.518958333
+CTIS,CTIS/data/audio.zip,audio/C0097/【中音筚篥】音阶 中速 力度强 第二遍.wav,0,wind,21.747913832
+CTIS,CTIS/data/audio.zip,audio/C0092/【低音横笛】演奏技法 颤音 第二遍.wav,0,wind,34.212040816
+CTIS,CTIS/data/audio.zip,audio/C0099/【短箫】音阶 速度慢 力度弱 第一遍.wav,0,wind,63.803764172
+CTIS,CTIS/data/audio.zip,audio/C0123/【南嗳仔】特有演奏技法 跟呛滑音 第二遍.wav,0,wind,3.021519274
+CTIS,CTIS/data/audio.zip,audio/C0101/【洞箫】音阶 速度慢 力度中强 第二遍.wav,0,wind,42.676802721
+CTIS,CTIS/data/audio.zip,audio/C0296/【唢呐】演奏技法 三吐音 第一遍.wav,0,wind,10.763166667
+CTIS,CTIS/data/audio.zip,audio/C0091/【高音横笛】演奏技法 滑音 第二遍.wav,0,wind,12.125011338
+CTIS,CTIS/data/audio.zip,audio/C0296/【唢呐】音阶 慢速 力度中强 第二遍.wav,0,wind,21.693687500
+CTIS,CTIS/data/audio.zip,audio/C0098/【低音筚篥】演奏技法 颤音 第二遍.wav,0,wind,26.827437642
+CTIS,CTIS/data/audio.zip,audio/C0091/【高音横笛】音阶 速度慢 力度强 第二遍.wav,0,wind,92.000022676
+CTIS,CTIS/data/audio.zip,audio/C0296/【唢呐】演奏技巧 地摇 第二遍.wav,0,wind,5.787812500
+CTIS,CTIS/data/audio.zip,audio/C0296/【唢呐】演奏技巧 双吐 第二遍.wav,0,wind,11.439583333
+CTIS,CTIS/data/audio.zip,audio/C0303/【小闷笛】演奏技巧 闷 第一遍.wav,0,wind,24.116553288
+CTIS,CTIS/data/audio.zip,audio/C0113/【尖子号】特有演奏技法 吐音 第一遍.wav,0,wind,3.249833333
+CTIS,CTIS/data/audio.zip,audio/C0265/【管子】乐曲片段 龙腾虎跃.wav,0,wind,23.137165533
+CTIS,CTIS/data/audio.zip,audio/C0097/【中音筚篥】音阶 速度慢 力度强 第二遍.wav,0,wind,32.285102041
+CTIS,CTIS/data/audio.zip,audio/C0243/【高音键笙】演奏技法 双吐 第二遍.wav,0,wind,9.398163265
+CTIS,CTIS/data/audio.zip,audio/C0265/【管子】演奏技法 颤音 第二遍.wav,0,wind,13.809591837
+CTIS,CTIS/data/audio.zip,audio/C0263/【中音笙】演奏技法 喉颤音 第一遍.wav,0,wind,38.596479167
+CTIS,CTIS/data/audio.zip,audio/C0099/【短箫】音阶 速度慢 力度强 第一遍.wav,0,wind,70.182811791
+CTIS,CTIS/data/audio.zip,audio/C0117/【南音洞箫】音阶 速度中 力度强 第二遍.wav,0,wind,27.125011338
+CTIS,CTIS/data/audio.zip,audio/C0187/【高音唢呐】演奏技法 连音 第一遍.wav,0,wind,4.430612245
+CTIS,CTIS/data/audio.zip,audio/C0095/【长唢呐】音阶 速度慢 力度强 第一遍.wav,0,wind,60.476190476
+CTIS,CTIS/data/audio.zip,audio/C0098/【低音筚篥】音阶 速度慢 力度强 第二遍.wav,0,wind,53.382947846
+CTIS,CTIS/data/audio.zip,audio/C0281/【G调新笛】筒音 自然衰减 力度中强 第一遍.wav,0,wind,4.161292517
+CTIS,CTIS/data/audio.zip,audio/C0237/【G调梆笛】筒音D 强奏力度 第一遍.wav,0,wind,3.654467120
+CTIS,CTIS/data/audio.zip,audio/C0096/【小筚篥】演奏技法 连音 第一遍.wav,0,wind,10.162766440
+CTIS,CTIS/data/audio.zip,audio/C0308/【吐良】音阶 慢速 力度弱 第一遍.wav,0,wind,66.918390023
+CTIS,CTIS/data/audio.zip,audio/C0259/【中音加键唢呐】筒音 自然衰减 力度弱 第二遍.wav,0,wind,4.976375000
+CTIS,CTIS/data/audio.zip,audio/C0092/【低音横笛】筒音 自然衰减 力度强 第一遍.wav,0,wind,8.350725624
+CTIS,CTIS/data/audio.zip,audio/C0263/【中音笙】演奏技法 音程 单吐 力度弱 第一遍.wav,0,wind,28.861083333
+CTIS,CTIS/data/audio.zip,audio/C0265/【管子】乐曲片段  民乐合奏翻身日子 管子solo.wav,0,wind,12.363083900
+CTIS,CTIS/data/audio.zip,audio/C0311/【俄比】音阶 中速 力度强 第一遍.wav,0,wind,39.121020408
+CTIS,CTIS/data/audio.zip,audio/C0099/【短箫】音阶 速度慢 力度中强 第二遍.wav,0,wind,67.445532880
+CTIS,CTIS/data/audio.zip,audio/C0263/【中音笙】音阶 演奏技法 哭舌 力度弱 第一遍.wav,0,wind,73.461833333
+CTIS,CTIS/data/audio.zip,audio/C0097/【中音筚篥】筒音 自然衰减 力度强 第二遍.wav,0,wind,7.250068027
+CTIS,CTIS/data/audio.zip,audio/C0117/【南音洞箫】演奏技法 华彩 第二遍.wav,0,wind,30.375011338
+CTIS,CTIS/data/audio.zip,audio/C0117/【南音洞箫】演奏技法 颤音 第二遍.wav,0,wind,5.000022676
+CTIS,CTIS/data/audio.zip,audio/C0095/【长唢呐】音阶 速度慢 力度弱 第二遍.wav,0,wind,49.026077098
+CTIS,CTIS/data/audio.zip,audio/C0117/【南音洞箫】演奏技法 连续颤音 第二遍.wav,0,wind,7.500000000
+CTIS,CTIS/data/audio.zip,audio/C0303/【小闷笛】演奏技巧 扇 第二遍.wav,0,wind,25.084489796
+CTIS,CTIS/data/audio.zip,audio/C0263/【中音笙】演奏技法 和弦 单吐 力度中强 第二遍.wav,0,wind,81.424958333
+CTIS,CTIS/data/audio.zip,audio/C0182/【长号】筒音 自然衰减 力度强 第二遍.wav,0,wind,4.785623583
+CTIS,CTIS/data/audio.zip,audio/C0310/【F调巴乌】音阶 中速 力度强 第一遍.wav,0,wind,16.525510204
+CTIS,CTIS/data/audio.zip,audio/C0310/【F调巴乌】演奏技法 屈指颤音 第一遍 .wav,0,wind,28.880952381
+CTIS,CTIS/data/audio.zip,audio/C0093/【中音横笛】筒音 自然衰减 力度中强 第二遍.wav,0,wind,6.567755102
+CTIS,CTIS/data/audio.zip,audio/C0304/【侗笛】音阶 中速 力度中强 第一遍.wav,0,wind,10.814312500
+CTIS,CTIS/data/audio.zip,audio/C0311/【俄比】音阶 速度慢 力度强 第二遍.wav,0,wind,32.852743764
+CTIS,CTIS/data/audio.zip,audio/C0303/【小闷笛】音阶 慢速 力度强 第一遍.wav,0,wind,29.090589569
+CTIS,CTIS/data/audio.zip,audio/C0092/【低音横笛】音阶 速度慢 力度弱 第一遍.wav,0,wind,73.237732426
+CTIS,CTIS/data/audio.zip,audio/C0100/【短箫（传统）】音阶 中速 力度强 第一遍.wav,0,wind,18.947641723
+CTIS,CTIS/data/audio.zip,audio/C0296/【唢呐】演奏技巧 啼颤音[第二种] 第一遍.wav,0,wind,12.288354167
+CTIS,CTIS/data/audio.zip,audio/C0098/【低音筚篥】演奏技法 颤音 第一遍.wav,0,wind,26.384308390
+CTIS,CTIS/data/audio.zip,audio/C0263/【中音笙】音阶 演奏技法 单吐 力度强 第一遍.wav,0,wind,83.134395833
+CTIS,CTIS/data/audio.zip,audio/C0091/【高音横笛】速度慢 力度强 第一遍.wav,0,wind,81.625011338
+CTIS,CTIS/data/audio.zip,audio/C0092/【低音横笛】筒音 自然衰减 力度弱 第一遍.wav,0,wind,8.256349206
+CTIS,CTIS/data/audio.zip,audio/C0280/【A调曲笛】 演奏技法 泛音  第二遍.wav,0,wind,12.183582766
+CTIS,CTIS/data/audio.zip,audio/C0096/【小筚篥】音阶 速度慢 力度强 第二遍.wav,0,wind,56.412630385
+CTIS,CTIS/data/audio.zip,audio/C0244/【传统笙】乐曲片段《微山湖船歌》.wav,0,wind,25.165260771
+CTIS,CTIS/data/audio.zip,audio/C0117/【南音洞箫】演奏技法 滑音带颤音 第一遍.wav,0,wind,3.625011338
+CTIS,CTIS/data/audio.zip,audio/C0304/【侗笛】演奏技法 循环换气 第一遍.wav,0,wind,13.357354167
+CTIS,CTIS/data/audio.zip,audio/C0306/【拉祜族葫芦笙】演奏技法 单吐 第二遍.wav,0,wind,19.961723356
+CTIS,CTIS/data/audio.zip,audio/C0259/【中音加键唢呐】音阶 速度中 力度强 第一遍.wav,0,wind,15.840104167
+CTIS,CTIS/data/audio.zip,audio/C0263/【中音笙】演奏技法 传统和声 单吐 力度中强 第一遍.wav,0,wind,24.832270833
+CTIS,CTIS/data/audio.zip,audio/C0303/【小闷笛】乐曲片段 悠歌.wav,0,wind,96.665600907
+CTIS,CTIS/data/audio.zip,audio/C0100/【短箫（传统）】音阶 速度慢 力度中强 第一遍.wav,0,wind,34.573718821
+CTIS,CTIS/data/audio.zip,audio/C0243/【高音键笙】演奏技法 传统和音 第一遍.wav,0,wind,26.111428571
+CTIS,CTIS/data/audio.zip,audio/C0092/【低音横笛】音阶 速度慢 力度中强 第二遍.wav,0,wind,85.261904762
+CTIS,CTIS/data/audio.zip,audio/C0117/【南音洞箫】音阶 速度中 力度强 第一遍.wav,0,wind,27.625011338
+CTIS,CTIS/data/audio.zip,audio/C0308/【吐良】筒音 自然衰减 力度强 第二遍.wav,0,wind,4.714988662
+CTIS,CTIS/data/audio.zip,audio/C0094/【唢呐】演奏技法 颤音 第二遍.wav,0,wind,15.242063492
+CTIS,CTIS/data/audio.zip,audio/C0237/【G调梆笛】音阶 中速 中等力度 第二遍.wav,0,wind,9.397732426
+CTIS,CTIS/data/audio.zip,audio/C0187/【高音唢呐】演奏技法 华彩 第二遍.wav,0,wind,18.978526077
+CTIS,CTIS/data/audio.zip,audio/C0281/【G调新笛】筒音 自然衰减 力度弱 第一遍.wav,0,wind,4.491882086
+CTIS,CTIS/data/audio.zip,audio/C0091/【高音横笛】筒音 自然衰减 力度强 第二遍.wav,0,wind,10.750022676
+CTIS,CTIS/data/audio.zip,audio/C0296/【唢呐】演奏技法 双吐音 第一遍.wav,0,wind,11.380770833
+CTIS,CTIS/data/audio.zip,audio/C0099/【短箫】音阶 自然衰减 力度中强 第一遍.wav,0,wind,71.308503401
+CTIS,CTIS/data/audio.zip,audio/C0259/【中音加键唢呐】演奏技法 单吐 第二遍.wav,0,wind,24.401770833
+CTIS,CTIS/data/audio.zip,audio/C0114/【尖子号2】演奏技法 花舌 第一遍.wav,0,wind,3.016916100
+CTIS,CTIS/data/audio.zip,audio/C0303/【小闷笛】筒音 自然衰减 力度弱 第一遍.wav,0,wind,11.343514739
+CTIS,CTIS/data/audio.zip,audio/C0117/【南音洞箫】演奏技法 大拇指颤音 第二遍.wav,0,wind,5.875011338
+CTIS,CTIS/data/audio.zip,audio/C0093/【中音横笛】演奏技法 长音 第二遍.wav,0,wind,14.941020408
+CTIS,CTIS/data/audio.zip,audio/C0117/【南音洞箫】音阶 速度慢 力度弱 第一遍.wav,0,wind,53.000000000
+CTIS,CTIS/data/audio.zip,audio/C0093/【中音横笛】演奏技法 打音 第二遍.wav,0,wind,3.001156463
+CTIS,CTIS/data/audio.zip,audio/C0093/【中音横笛】筒音 自然衰减 力度弱 第一遍.wav,0,wind,5.158775510
+CTIS,CTIS/data/audio.zip,audio/C0114/【尖子号2】演奏技法 三吐 第一遍.wav,0,wind,3.540861678
+CTIS,CTIS/data/audio.zip,audio/C0296/【唢呐】演奏技巧 三吐 第一遍.wav,0,wind,11.321395833
+CTIS,CTIS/data/audio.zip,audio/C0309/【葫芦丝】音阶 速度慢 力度中强 第一遍.wav,0,wind,42.250566893
+CTIS,CTIS/data/audio.zip,audio/C0097/【中音筚篥】音阶 速度慢 力度中强 第二遍.wav,0,wind,31.586893424
+CTIS,CTIS/data/audio.zip,audio/C0095/【长唢呐】音阶 中速 力度强 第一遍.wav,0,wind,31.721791383
+CTIS,CTIS/data/audio.zip,audio/C0311/【俄比】筒音 自然衰减 力度中强 第一遍.wav,0,wind,3.801723356
+CTIS,CTIS/data/audio.zip,audio/C0114/【尖子号2】演奏技法 吐音 第一遍.wav,0,wind,3.464603175
+CTIS,CTIS/data/audio.zip,audio/C0124/【大吹】演奏技法 打音 连打 第二遍.wav,0,wind,3.108503401
+CTIS,CTIS/data/audio.zip,audio/C0280/【A调曲笛】 演奏技法 单吐 第一遍.wav,0,wind,15.260861678
+CTIS,CTIS/data/audio.zip,audio/C0095/【长唢呐】音阶 速度慢 力度中强 第一遍.wav,0,wind,44.697573696
+CTIS,CTIS/data/audio.zip,audio/C0296/【唢呐】演奏技法 单吐 第二遍.wav,0,wind,16.566166667
+CTIS,CTIS/data/audio.zip,audio/C0283/【埙】音阶 慢速 力度强 第一遍.wav,0,wind,10.703219955
+CTIS,CTIS/data/audio.zip,audio/C0090/【大笒】演奏技法 连音 第一遍.wav,0,wind,12.625011338
+CTIS,CTIS/data/audio.zip,audio/C0305/【德】演奏技法 闪音 第一遍.wav,0,wind,23.611065760
+CTIS,CTIS/data/audio.zip,audio/C0296/【唢呐】演奏技法 啼颤音 第一遍.wav,0,wind,24.888083333
+CTIS,CTIS/data/audio.zip,audio/C0100/【短箫（传统）】演奏技法 连音 第一遍.wav,0,wind,7.219773243
+CTIS,CTIS/data/audio.zip,audio/C0244/【传统笙】音阶 中速 力度强 第二遍.wav,0,wind,18.957845805
+CTIS,CTIS/data/audio.zip,audio/C0182/【长号】筒音 自然衰减 力度中强 第一遍.wav,0,wind,4.406643991
+CTIS,CTIS/data/audio.zip,audio/C0098/【低音筚篥】演奏技法 打音 第一遍.wav,0,wind,20.864126984
+CTIS,CTIS/data/audio.zip,audio/C0124/【大吹】演奏技法 打音 单打 第一遍.wav,0,wind,0.985328798
+CTIS,CTIS/data/audio.zip,audio/C0237/【G调梆笛】音阶 慢速 强奏力度 第一遍.wav,0,wind,77.181519274
+CTIS,CTIS/data/audio.zip,audio/C0280/【A调曲笛】 演奏技法 循环换气  第一遍.wav,0,wind,8.792290249
+CTIS,CTIS/data/audio.zip,audio/C0263/【中音笙】演奏技法 音程 单吐 力度强 第一遍.wav,0,wind,28.259833333
+CTIS,CTIS/data/audio.zip,audio/C0281/【G调新笛】演奏技法 三吐 第一遍.wav,0,wind,13.779478458
+CTIS,CTIS/data/audio.zip,audio/C0097/【中音筚篥】演奏技法 连音 第一遍.wav,0,wind,14.312494331
+CTIS,CTIS/data/audio.zip,audio/C0243/【高音键笙】演奏技法 喉颤音 第二遍.wav,0,wind,16.423560091
+CTIS,CTIS/data/audio.zip,audio/C0090/【大笒】音阶 速度慢 力度强 第二遍.wav,0,wind,74.625011338
+CTIS,CTIS/data/audio.zip,audio/C0259/【中音加键唢呐】演奏技法 三吐 第二遍.wav,0,wind,14.042791667
+CTIS,CTIS/data/audio.zip,audio/C0237/【G调梆笛】演奏技法 下历音 中强力度 第二遍.wav,0,wind,9.446312500
+CTIS,CTIS/data/audio.zip,audio/C0098/【低音筚篥】筒音 自然衰减 力度弱 第二遍.wav,0,wind,8.347755102
+CTIS,CTIS/data/audio.zip,audio/C0124/【大吹】音阶 速度慢 力度中强 第一遍.wav,0,wind,48.361678005
+CTIS,CTIS/data/audio.zip,audio/C0096/【小筚篥】音阶 速度慢 力度中强 第一遍.wav,0,wind,53.654784580
+CTIS,CTIS/data/audio.zip,audio/C0092/【低音横笛】演奏技法 滑音 第二遍.wav,0,wind,15.928299320
+CTIS,CTIS/data/audio.zip,audio/C0092/【低音横笛】演奏技法 长音 第二遍.wav,0,wind,38.511655329
+CTIS,CTIS/data/audio.zip,audio/C0303/【小闷笛】演奏技巧 闷 第二遍.wav,0,wind,22.795941043
+CTIS,CTIS/data/audio.zip,audio/C0096/【小筚篥】演奏技法 长音 第二遍.wav,0,wind,26.844036281
+CTIS,CTIS/data/audio.zip,audio/C0097/【中音筚篥】筒音 自然衰减 力度中强 第一遍.wav,0,wind,6.706167800
+CTIS,CTIS/data/audio.zip,audio/C0100/【短箫（传统）】演奏技法 连音 第二遍.wav,0,wind,6.620226757
+CTIS,CTIS/data/audio.zip,audio/C0182/【长号】演奏技法 长音平音 第一遍.wav,0,wind,5.144671202
+CTIS,CTIS/data/audio.zip,audio/C0188/【低音唢呐】筒音 自然衰减 力度弱 第一遍.wav,0,wind,3.451496599
+CTIS,CTIS/data/audio.zip,audio/C0243/【高音键笙】演奏技法 三吐 第一遍.wav,0,wind,15.594807256
+CTIS,CTIS/data/audio.zip,audio/C0091/【高音横笛】音阶 速度中 力度强 第二遍.wav,0,wind,25.000000000
+CTIS,CTIS/data/audio.zip,audio/C0098/【低音筚篥】演奏技法 滑音 第二遍.wav,0,wind,9.724965986
+CTIS,CTIS/data/audio.zip,audio/D0125/【南鼓】演奏技巧 华彩 第一遍.wav,1,percussion,16.017732426
+CTIS,CTIS/data/audio.zip,audio/D0181/【宜春三星鼓 寿鼓 老鼓】单音 自然衰减 力度强 第一遍.wav,1,percussion,2.195351474
+CTIS,CTIS/data/audio.zip,audio/D0180/【宜春三星鼓 禄鼓 老鼓】演奏技法 连打 第二遍.wav,1,percussion,13.134149660
+CTIS,CTIS/data/audio.zip,audio/D0249/【花盆鼓】演奏技法 边击 第一遍.wav,1,percussion,0.583015873
+CTIS,CTIS/data/audio.zip,audio/D0147/【响盏】演奏技巧 节奏型 第一遍.wav,1,percussion,13.312834467
+CTIS,CTIS/data/audio.zip,audio/D0061/【大铛铛】筒音 自然衰减 力度中强  第一遍.wav,1,percussion,3.398684807
+CTIS,CTIS/data/audio.zip,audio/D0186/【宜春三星鼓 镲】演奏技法 连打 第二遍.wav,1,percussion,18.115238095
+CTIS,CTIS/data/audio.zip,audio/D0131/【小叫】筒音 自然衰减 力度中强 第一遍.wav,1,percussion,5.068321995
+CTIS,CTIS/data/audio.zip,audio/D0275/【小锣】筒音 自然衰减 力度强 第二遍.wav,1,percussion,2.823219955
+CTIS,CTIS/data/audio.zip,audio/D0272/【抄锣】演奏技法 锣梆 第一遍.wav,1,percussion,4.242426304
+CTIS,CTIS/data/audio.zip,audio/D0131/【小叫】筒音 自然衰减 力度强 第二遍.wav,1,percussion,5.986439909
+CTIS,CTIS/data/audio.zip,audio/D0127/【钟】筒音 自然衰减 力度中强 第一遍.wav,1,percussion,10.400839002
+CTIS,CTIS/data/audio.zip,audio/D0147/【响盏】筒音 自然衰减 力度中强 第一遍.wav,1,percussion,4.413764172
+CTIS,CTIS/data/audio.zip,audio/D0248/【中国大鼓】演奏技巧 鼓钉 第一遍.wav,1,percussion,1.238708333
+CTIS,CTIS/data/audio.zip,audio/D0180/【宜春三星鼓 禄鼓 老鼓】单音 自然衰减 力度弱 第二遍.wav,1,percussion,2.185600907
+CTIS,CTIS/data/audio.zip,audio/D0270/【铙钹】演奏技巧 薄击 第二遍.wav,1,percussion,4.000000000
+CTIS,CTIS/data/audio.zip,audio/D0290/【大镲】自然衰减 力度弱 第二遍.wav,1,percussion,3.225812500
+CTIS,CTIS/data/audio.zip,audio/D0172/【碗碗】筒音 自然衰减 力度弱 第二遍.wav,1,percussion,5.233832200
+CTIS,CTIS/data/audio.zip,audio/D0176/【福[新]】筒音 自然衰减 力度中强 第一遍.wav,1,percussion,4.155079365
+CTIS,CTIS/data/audio.zip,audio/D0250/【小堂鼓】演奏技巧 滚奏 第二遍.wav,1,percussion,4.877142857
+CTIS,CTIS/data/audio.zip,audio/D0270/【铙钹】演奏技巧 磕击 第一遍.wav,1,percussion,2.573854875
+CTIS,CTIS/data/audio.zip,audio/D0248/【中国大鼓】演奏技巧 边击 第二遍.wav,1,percussion,0.772750000
+CTIS,CTIS/data/audio.zip,audio/D0105/【杖鼓】筒音 自然衰减 力度强 第一遍.wav,1,percussion,6.414920635
+CTIS,CTIS/data/audio.zip,audio/D0250/【小堂鼓】筒音 自然衰减 力度中强 第二遍.wav,1,percussion,1.147392290
+CTIS,CTIS/data/audio.zip,audio/D0273/【中虎】演奏技巧 锣梆边 第二遍.wav,1,percussion,1.953520833
+CTIS,CTIS/data/audio.zip,audio/D0327/【萨巴依】音色2 第一遍.wav,1,percussion,0.679062500
+CTIS,CTIS/data/audio.zip,audio/D0146/【四宝】演奏技巧 两手重奏 第一遍.wav,1,percussion,15.157278912
+CTIS,CTIS/data/audio.zip,audio/D0144/【小叫锣】筒音 自然衰减 力度中强 第一遍.wav,1,percussion,4.211360544
+CTIS,CTIS/data/audio.zip,audio/D0015/【扬琴】演奏技法 弹轮式的快节奏 第一遍.wav,1,percussion,15.156417234
+CTIS,CTIS/data/audio.zip,audio/D0290/【大镲】演奏技法 磨击 第一遍.wav,1,percussion,4.988229167
+CTIS,CTIS/data/audio.zip,audio/D0252/【五音排鼓】筒音 自然衰减 力度弱 第二遍.wav,1,percussion,13.711269841
+CTIS,CTIS/data/audio.zip,audio/D0173/【代子】筒音 自然衰减 力度弱 第二遍.wav,1,percussion,11.089115646
+CTIS,CTIS/data/audio.zip,audio/D0241/【编钟】音阶 按顺序 速度慢 力度弱 第一遍.wav,1,percussion,126.297052154
+CTIS,CTIS/data/audio.zip,audio/D0143/【双铃】筒音 自然衰减 力度中强 第二遍.wav,1,percussion,10.767709751
+CTIS,CTIS/data/audio.zip,audio/D0065/【苏钵】演奏技巧 大分家 第二遍.wav,1,percussion,11.679773243
+CTIS,CTIS/data/audio.zip,audio/D0103/【小锣】演奏技巧 华彩 第二遍.wav,1,percussion,23.356938776
+CTIS,CTIS/data/audio.zip,audio/D0252/【五音排鼓】筒音 自然衰减 力度强 第一遍.wav,1,percussion,13.966417234
+CTIS,CTIS/data/audio.zip,audio/D0275/【小锣】演奏技巧 指音 第一遍.wav,1,percussion,1.207414966
+CTIS,CTIS/data/audio.zip,audio/D0127/【钟】筒音 自然衰减 力度弱 第一遍.wav,1,percussion,9.873424036
+CTIS,CTIS/data/audio.zip,audio/D0181/【宜春三星鼓 寿鼓 老鼓】单音 自然衰减 力度中强 第二遍.wav,1,percussion,4.477868481
+CTIS,CTIS/data/audio.zip,audio/D0105/【杖鼓】演奏技巧 特有演奏技法 第一遍.wav,1,percussion,6.806371882
+CTIS,CTIS/data/audio.zip,audio/D0279/【云锣】音阶 力度中强 第二遍 第二组.wav,1,percussion,191.634687500
+CTIS,CTIS/data/audio.zip,audio/D0248/【中国大鼓】演奏技巧 鼓钉 第二遍.wav,1,percussion,1.765687500
+CTIS,CTIS/data/audio.zip,audio/D0132/【拍】筒音 自然衰减 力度中强 第一遍.wav,1,percussion,1.721383220
+CTIS,CTIS/data/audio.zip,audio/D0249/【花盆鼓】演奏技法 滚奏 第二遍.wav,1,percussion,16.293061224
+CTIS,CTIS/data/audio.zip,audio/D0250/【小堂鼓】演奏技巧 滚奏 第一遍.wav,1,percussion,7.228888889
+CTIS,CTIS/data/audio.zip,audio/D0241/【编钟】音阶 按顺序 速度慢 力度强 第一遍.wav,1,percussion,63.526507937
+CTIS,CTIS/data/audio.zip,audio/D0143/【双铃】演奏技巧 打撩拍 第一遍.wav,1,percussion,13.759705215
+CTIS,CTIS/data/audio.zip,audio/D0252/【五音排鼓】筒音 自然衰减 力度强 第二遍.wav,1,percussion,17.867777778
+CTIS,CTIS/data/audio.zip,audio/D0145/【拍板】筒音 自然衰减 力度中强 第一遍.wav,1,percussion,2.371678005
+CTIS,CTIS/data/audio.zip,audio/D0290/【大镲】自然衰减 力度强 第一遍.wav,1,percussion,7.023458333
+CTIS,CTIS/data/audio.zip,audio/D0125/【南鼓】演奏技巧 轮打中强 第一遍.wav,1,percussion,4.875464853
+CTIS,CTIS/data/audio.zip,audio/D0070/【包锣】筒音 自然衰减 力度强  第一遍.wav,1,percussion,17.531315193
+CTIS,CTIS/data/audio.zip,audio/D0248/【中国大鼓】筒音 自然衰减 力度强 第一遍.wav,1,percussion,2.034687500
+CTIS,CTIS/data/audio.zip,audio/D0070/【包锣】筒音 自然衰减 力度中强  第一遍.wav,1,percussion,15.598934240
+CTIS,CTIS/data/audio.zip,audio/D0130/【响盏】筒音 自然衰减 力度弱 第二遍.wav,1,percussion,4.603424036
+CTIS,CTIS/data/audio.zip,audio/D0067/【川铰】筒音 自然衰减 力度强 第二遍.wav,1,percussion,5.844761905
+CTIS,CTIS/data/audio.zip,audio/D0186/【宜春三星鼓 镲】单音 自然衰减 力度强 第一遍.wav,1,percussion,11.600793651
+CTIS,CTIS/data/audio.zip,audio/D0271/【小镲】乐曲片段 [没有名字].wav,1,percussion,9.957188209
+CTIS,CTIS/data/audio.zip,audio/D0048/【低音大锣】演奏技巧 水音  第一遍.wav,1,percussion,10.852131519
+CTIS,CTIS/data/audio.zip,audio/D0270/【铙钹】筒音 自然衰减 力度强 第二遍.wav,1,percussion,10.206303855
+CTIS,CTIS/data/audio.zip,audio/D0146/【四宝】演奏技巧 连指 第二遍.wav,1,percussion,15.911111111
+CTIS,CTIS/data/audio.zip,audio/D0125/【南鼓】演奏技巧 轮打强 第二遍.wav,1,percussion,2.989387755
+CTIS,CTIS/data/audio.zip,audio/D0132/【拍】演奏技巧 华彩 第一遍.wav,1,percussion,6.583151927
+CTIS,CTIS/data/audio.zip,audio/D0276/【马锣】筒音 自然衰减 力度中强 第二遍.wav,1,percussion,4.070136054
+CTIS,CTIS/data/audio.zip,audio/D0286/【曲锣】乐曲片段 锣花.wav,1,percussion,8.154217687
+CTIS,CTIS/data/audio.zip,audio/D0051/【钹】筒音 自然衰减 力度中强  第一遍.wav,1,percussion,9.636371882
+CTIS,CTIS/data/audio.zip,audio/D0071/【引鼓】演奏技巧 跟鼓 第一遍.wav,1,percussion,14.990748299
+CTIS,CTIS/data/audio.zip,audio/D0250/【小堂鼓】演奏技巧 鼓梆 第一遍.wav,1,percussion,0.684467120
+CTIS,CTIS/data/audio.zip,audio/D0328/【手鼓】演奏技法 左手  T音色 第二遍.wav,1,percussion,0.918958333
+CTIS,CTIS/data/audio.zip,audio/D0144/【小叫锣】筒音 自然衰减 力度强 第二遍.wav,1,percussion,5.505918367
+CTIS,CTIS/data/audio.zip,audio/D0102/【上杖鼓】演奏技巧 右手打音 第一遍.wav,1,percussion,30.461814059
+CTIS,CTIS/data/audio.zip,audio/D0270/【铙钹】筒音 自然衰减 力度弱  第二遍.wav,1,percussion,4.019183673
+CTIS,CTIS/data/audio.zip,audio/D0140/【脚梆子】筒音 自然衰减 力度中强 第一遍.wav,1,percussion,1.802607710
+CTIS,CTIS/data/audio.zip,audio/D0128/【草锣】筒音 自然衰减 力度弱 第二遍.wav,1,percussion,27.185646259
+CTIS,CTIS/data/audio.zip,audio/D0063/【二馨】演奏技巧 连打 第一遍.wav,1,percussion,7.202743764
+CTIS,CTIS/data/audio.zip,audio/D0326/【库休克】音色2 第一遍.wav,1,percussion,0.355187500
+CTIS,CTIS/data/audio.zip,audio/D0279/【云锣】音阶 力度中强 第一遍 第二组.wav,1,percussion,71.247187500
+CTIS,CTIS/data/audio.zip,audio/D0251/【扁鼓】单音 鼓边 第一遍.wav,1,percussion,0.967505669
+CTIS,CTIS/data/audio.zip,audio/D0278/【板鼓】演奏技法 嘟拉 第一遍.wav,1,percussion,0.781269841
+CTIS,CTIS/data/audio.zip,audio/D0178/【寿[新]】筒音 自然衰减 力度中强 第二遍.wav,1,percussion,3.678594104
+CTIS,CTIS/data/audio.zip,audio/D0268/【草帽镲】演奏技法 闷击 第一遍.wav,1,percussion,1.000000000
+CTIS,CTIS/data/audio.zip,audio/D0127/【钟】演奏技巧 鼓音 第二遍.wav,1,percussion,3.734172336
+CTIS,CTIS/data/audio.zip,audio/D0063/【二馨】筒音 自然衰减 力度中强 第二遍.wav,1,percussion,12.871927438
+CTIS,CTIS/data/audio.zip,audio/D0241/【编钟】音阶 按顺序 速度慢 力度中强 第一遍.wav,1,percussion,63.780884354
+CTIS,CTIS/data/audio.zip,audio/D0248/【中国大鼓】筒音 自然衰减 力度强 第二遍.wav,1,percussion,2.198625000
+CTIS,CTIS/data/audio.zip,audio/D0270/【铙钹】演奏技巧 薄击 第一遍.wav,1,percussion,4.160000000
+CTIS,CTIS/data/audio.zip,audio/D0015/【扬琴】演奏技法 常用演奏技法  第一遍.wav,1,percussion,24.675555556
+CTIS,CTIS/data/audio.zip,audio/D0268/【草帽镲】演奏技法 擦击 第一遍.wav,1,percussion,2.857165533
+CTIS,CTIS/data/audio.zip,audio/D0186/【宜春三星鼓 镲】单音 自然衰减 力度中强 第一遍.wav,1,percussion,10.648866213
+CTIS,CTIS/data/audio.zip,audio/D0070/【包锣】筒音 自然衰减 力度弱 第一遍.wav,1,percussion,15.570068027
+CTIS,CTIS/data/audio.zip,audio/D0147/【响盏】筒音 自然衰减 力度弱 第一遍.wav,1,percussion,3.727074830
+CTIS,CTIS/data/audio.zip,audio/D0137/【渔鼓】演奏技巧 连打 第二遍.wav,1,percussion,4.675668934
+CTIS,CTIS/data/audio.zip,audio/D0146/【四宝】筒音 自然衰减 力度弱 第二遍.wav,1,percussion,3.000000000
+CTIS,CTIS/data/audio.zip,audio/D0067/【川铰】筒音 自然衰减 力度中强 第一遍.wav,1,percussion,5.149750567
+CTIS,CTIS/data/audio.zip,audio/D0248/【中国大鼓】演奏技巧 鼓边 第二遍.wav,1,percussion,0.822000000
+CTIS,CTIS/data/audio.zip,audio/D0060/D0060A2-1a 没音频.wav,1,percussion,41.000000000
+CTIS,CTIS/data/audio.zip,audio/D0270/【铙钹】筒音 自然衰减 力度强 第一遍.wav,1,percussion,9.401451247
+CTIS,CTIS/data/audio.zip,audio/D0185/【宜春三星鼓 单铛】单音 自然衰减 力度强 第二遍.wav,1,percussion,6.418979592
+CTIS,CTIS/data/audio.zip,audio/D0315/【竹排琴】演奏技巧 三度音程齐奏 第二遍.wav,1,percussion,6.558708333
+CTIS,CTIS/data/audio.zip,audio/D0145/【拍板】有问题 自然衰减 力度弱 第一遍 没有音频 有字幕没剪.wav,1,percussion,10.681179138
+CTIS,CTIS/data/audio.zip,audio/D0251/【扁鼓】单音 鼓心 自然衰减 力度弱 第一遍.wav,1,percussion,1.134421769
+CTIS,CTIS/data/audio.zip,audio/D0241/【编钟】音阶 下层 自然衰减 力度中强 第二遍.wav,1,percussion,92.477800454
+CTIS,CTIS/data/audio.zip,audio/D0172/【碗碗】筒音 自然衰减 力度中强 第一遍.wav,1,percussion,6.393197279
+CTIS,CTIS/data/audio.zip,audio/D0125/【南鼓】演奏技巧 轮打渐弱 第二遍.wav,1,percussion,3.820362812
+CTIS,CTIS/data/audio.zip,audio/D0068/【川大锣】筒音 自然衰减 力度强 第二遍.wav,1,percussion,10.000000000
+CTIS,CTIS/data/audio.zip,audio/D0315/【竹排琴】音阶 自然衰减 力度中 第二遍.wav,1,percussion,51.117062500
+CTIS,CTIS/data/audio.zip,audio/D0147/【响盏】演奏技巧 连指 第二遍.wav,1,percussion,10.095034014
+CTIS,CTIS/data/audio.zip,audio/D0172/【碗碗】筒音 自然衰减 力度强 第一遍.wav,1,percussion,8.946303855
+CTIS,CTIS/data/audio.zip,audio/D0186/【宜春三星鼓 镲】单音 自然衰减 力度强 第二遍.wav,1,percussion,11.531405896
+CTIS,CTIS/data/audio.zip,audio/D0176/【福[新]】筒音 自然衰减 力度弱 第二遍.wav,1,percussion,2.082562358
+CTIS,CTIS/data/audio.zip,audio/D0326/【库休克】音色3 第二遍.wav,1,percussion,0.316125000
+CTIS,CTIS/data/audio.zip,audio/D0328/【手鼓】演奏技法 右手  d音色 第一遍.wav,1,percussion,0.884937500
+CTIS,CTIS/data/audio.zip,audio/D0250/【小堂鼓】筒音 自然衰减 力度弱 第二遍.wav,1,percussion,0.872562358
+CTIS,CTIS/data/audio.zip,audio/D0287/【深波】演奏技巧 短音 第一遍.wav,1,percussion,8.207029478
+CTIS,CTIS/data/audio.zip,audio/D0247/【碰铃】筒音 自然衰减 力度弱 第一遍.wav,1,percussion,1.479024943
+CTIS,CTIS/data/audio.zip,audio/D0273/【中虎】筒音 自然衰减 力度强 第二遍.wav,1,percussion,3.451791667
+CTIS,CTIS/data/audio.zip,audio/D0126/【压脚鼓】筒音 自然衰减 力度强 第一遍.wav,1,percussion,0.897142857
+CTIS,CTIS/data/audio.zip,audio/D0143/【双铃】筒音 自然衰减 力度弱 第二遍.wav,1,percussion,8.625487528
+CTIS,CTIS/data/audio.zip,audio/D0248/【中国大鼓】演奏技巧 双锤同击鼓梆 第一遍.wav,1,percussion,0.534000000
+CTIS,CTIS/data/audio.zip,audio/D0298/【编铓】音阶 中速 力度强 第一遍 .wav,1,percussion,60.472471655
+CTIS,CTIS/data/audio.zip,audio/D0269/【铙】乐曲片段.wav,1,percussion,13.701995465
+CTIS,CTIS/data/audio.zip,audio/D0249/【花盆鼓】演奏技法 捶互击 第二遍.wav,1,percussion,0.572335601
+CTIS,CTIS/data/audio.zip,audio/D0126/【压脚鼓】演奏技巧 轮打渐弱 第一遍.wav,1,percussion,4.820680272
+CTIS,CTIS/data/audio.zip,audio/D0060/【川小锣】筒音 自然衰减 力度强  第一遍.wav,1,percussion,6.866938776
+CTIS,CTIS/data/audio.zip,audio/D0273/【中虎】演奏技巧 锣梆 第一遍.wav,1,percussion,1.180687500
+CTIS,CTIS/data/audio.zip,audio/D0140/【脚梆子】筒音 自然衰减 力度弱 第一遍.wav,1,percussion,2.133287982
+CTIS,CTIS/data/audio.zip,audio/D0315/【竹排琴】音阶 自然衰减 力度弱 第二遍.wav,1,percussion,52.502229167
+CTIS,CTIS/data/audio.zip,audio/D0049/【虎音锣】自然衰减 力度弱  第一遍.wav,1,percussion,12.000000000
+CTIS,CTIS/data/audio.zip,audio/D0274/【武锣】演奏技巧 一 第一遍.wav,1,percussion,1.214195011
+CTIS,CTIS/data/audio.zip,audio/D0273/【中虎】演奏技巧 眼击 第二遍.wav,1,percussion,0.675479167
+CTIS,CTIS/data/audio.zip,audio/D0315/【竹排琴】音阶 自然衰减 力度强 第二遍.wav,1,percussion,47.589041667
+CTIS,CTIS/data/audio.zip,audio/D0131/【小叫】演奏技巧 华彩 第二遍.wav,1,percussion,7.653333333
+CTIS,CTIS/data/audio.zip,audio/D0067/【川铰】筒音 自然衰减 力度弱 第二遍.wav,1,percussion,6.271700680
+CTIS,CTIS/data/audio.zip,audio/D0050/【小钹】筒音 自然衰减 力度强  第一遍.wav,1,percussion,25.000000000
+CTIS,CTIS/data/audio.zip,audio/D0137/【渔鼓】演奏技巧 华彩 第二遍.wav,1,percussion,9.676122449
+CTIS,CTIS/data/audio.zip,audio/D0275/【小锣】筒音 自然衰减 力度弱 第一遍.wav,1,percussion,2.070884354
+CTIS,CTIS/data/audio.zip,audio/D0147/【响盏】筒音 自然衰减 力度中强 第二遍.wav,1,percussion,4.305056689
+CTIS,CTIS/data/audio.zip,audio/D0247/【碰铃】演奏技巧 一 第一遍.wav,1,percussion,3.478185941
+CTIS,CTIS/data/audio.zip,audio/D0060/【川小锣】筒音 自然衰减 力度弱  第一遍.wav,1,percussion,8.761904762
+CTIS,CTIS/data/audio.zip,audio/D0274/【武锣】筒音 自然衰减 力度强 第二遍.wav,1,percussion,4.246848073
+CTIS,CTIS/data/audio.zip,audio/D0066/【川剧堂鼓】筒音 自然衰减 力度中强 第一遍.wav,1,percussion,3.330045351
+CTIS,CTIS/data/audio.zip,audio/D0247/【碰铃】筒音 自然衰减 力度强 第一遍.wav,1,percussion,4.026258503
+CTIS,CTIS/data/audio.zip,audio/D0250/【小堂鼓】筒音 自然衰减 力度强 第二遍.wav,1,percussion,1.134807256
+CTIS,CTIS/data/audio.zip,audio/D0270/【铙钹】演奏技巧 磕击 第二遍.wav,1,percussion,1.953990930
+CTIS,CTIS/data/audio.zip,audio/D0252/【五音排鼓】乐曲片段 鼓上舞龙舟.wav,1,percussion,289.010498866
+CTIS,CTIS/data/audio.zip,audio/D0140/【脚梆子】筒音 自然衰减 力度强 第二遍.wav,1,percussion,2.370113379
+CTIS,CTIS/data/audio.zip,audio/T0083/【伽倻琴】 演奏技法 滑音 第二遍.wav,2,plucked_string,34.897916667
+CTIS,CTIS/data/audio.zip,audio/T0260/【中阮】音阶 力度中 双弹技法 指音 第二遍.wav,2,plucked_string,119.904666667
+CTIS,CTIS/data/audio.zip,audio/T0255/【古筝】乐曲片段 客家筝曲《出水莲》.wav,2,plucked_string,65.241768707
+CTIS,CTIS/data/audio.zip,audio/T0116/【八角月琴】 演奏技法 滑音 下滑 二弦 第一遍.wav,2,plucked_string,1.952375000
+CTIS,CTIS/data/audio.zip,audio/T0083/【伽倻琴】 音阶 慢速 力度中强 第二遍.wav,2,plucked_string,59.248333333
+CTIS,CTIS/data/audio.zip,audio/T0300/【澜沧小三弦】音阶 速度慢 力度弱 第一遍.wav,2,plucked_string,49.631859410
+CTIS,CTIS/data/audio.zip,audio/T0078/【四股弦】 空弦音 筒音 自然衰减 力度中强 内弦 第二遍.wav,2,plucked_string,4.794916667
+CTIS,CTIS/data/audio.zip,audio/T0318/【弹拨尔】空弦音 二弦下拨弦 自然衰减 力度强 第二遍.wav,2,plucked_string,5.746145833
+CTIS,CTIS/data/audio.zip,audio/T0082/【伽倻琴（改良）】 演奏技法 滑音 第一遍.wav,2,plucked_string,21.305812500
+CTIS,CTIS/data/audio.zip,audio/T0260/【中阮】音阶 力度中 扫技法 指音 第一遍.wav,2,plucked_string,69.777916667
+CTIS,CTIS/data/audio.zip,audio/T0289/【三弦】跨弦音阶 演奏技法 弹 自然衰减 力度中强 第一遍.wav,2,plucked_string,330.931201814
+CTIS,CTIS/data/audio.zip,audio/T0323/【都它尔】空弦音 二弦上拨音 自然衰减 力度弱 第一遍.wav,2,plucked_string,1.538375000
+CTIS,CTIS/data/audio.zip,audio/T0261/【柳琴】演奏技法 推拉弦 第一遍.wav,2,plucked_string,28.632630385
+CTIS,CTIS/data/audio.zip,audio/T0238/【大阮】演奏技法 勾弦 第二遍.wav,2,plucked_string,16.837392290
+CTIS,CTIS/data/audio.zip,audio/T0255/【古筝】音阶 速度慢 力度中强 第一遍.wav,2,plucked_string,36.355986395
+CTIS,CTIS/data/audio.zip,audio/T0267/【扬琴】演奏技法 击板 轮奏 琴盖边 力度中强 第一遍.wav,2,plucked_string,1.659145833
+CTIS,CTIS/data/audio.zip,audio/T0320/【民间热瓦普】音阶 中速 力度强 第一遍.wav,2,plucked_string,22.822770833
+CTIS,CTIS/data/audio.zip,audio/T0111/【三弦】 音阶 慢速 力度强 第二遍.wav,2,plucked_string,26.041104167
+CTIS,CTIS/data/audio.zip,audio/T0082/【伽倻琴（改良）】 音阶 慢速 力度弱 第一遍.wav,2,plucked_string,66.900250000
+CTIS,CTIS/data/audio.zip,audio/T0323/【都它尔】空弦音 二弦下拨音 自然衰减 力度弱 第二遍.wav,2,plucked_string,0.829312500
+CTIS,CTIS/data/audio.zip,audio/T0302/【傈傈族奇奔】音阶 速度慢 力度中强 第二遍.wav,2,plucked_string,59.653197279
+CTIS,CTIS/data/audio.zip,audio/T0089/【扬琴】 演奏技法 颤音 第二遍.wav,2,plucked_string,23.878979167
+CTIS,CTIS/data/audio.zip,audio/T0317/【独弦琴】演奏技法 颤音1 第一遍.wav,2,plucked_string,10.263937500
+CTIS,CTIS/data/audio.zip,audio/T0083/【伽倻琴】 音阶 慢速 力度弱 第一遍.wav,2,plucked_string,47.268458333
+CTIS,CTIS/data/audio.zip,audio/T0254/【箜篌】乐曲片段《清明上河图》.wav,2,plucked_string,130.493922902
+CTIS,CTIS/data/audio.zip,audio/T0260/【中阮】音阶 力度强 双弹技法 指音 第二遍.wav,2,plucked_string,162.641750000
+CTIS,CTIS/data/audio.zip,audio/T0260/【中阮】跨弦音阶 力度弱 弹技法 指音 第一遍.wav,2,plucked_string,158.257750000
+CTIS,CTIS/data/audio.zip,audio/T0238/【大阮】演奏技法 拂 第一遍.wav,2,plucked_string,13.461995465
+CTIS,CTIS/data/audio.zip,audio/T0301/【玎】音阶 速度慢 力度弱 第二遍.wav,2,plucked_string,28.714807256
+CTIS,CTIS/data/audio.zip,audio/T0116/【八角月琴】 演奏技法 轮指 二弦 第二遍.wav,2,plucked_string,5.312895833
+CTIS,CTIS/data/audio.zip,audio/T0323/【都它尔】音阶 自然衰减 力度中强 第二遍.wav,2,plucked_string,134.531479167
+CTIS,CTIS/data/audio.zip,audio/T0255/【古筝】演奏技法 扫弦 第二遍.wav,2,plucked_string,25.012131519
+CTIS,CTIS/data/audio.zip,audio/T0254/【箜篌】音阶 中速 力度强 第二遍.wav,2,plucked_string,36.299365079
+CTIS,CTIS/data/audio.zip,audio/T0261/【柳琴】空弦音 自然衰减 力度弱 挑技法 第二遍.wav,2,plucked_string,36.752222222
+CTIS,CTIS/data/audio.zip,audio/T0320/【民间热瓦普】空弦音 泛音弦上拨弦 自然衰减 力度弱 第二遍.wav,2,plucked_string,8.482208333
+CTIS,CTIS/data/audio.zip,audio/T0171/【月琴】 音阶 自然衰减 力度中强 第二遍.wav,2,plucked_string,107.622562500
+CTIS,CTIS/data/audio.zip,audio/T0088/【扬琴】 音阶 中速 力度强 第二遍.wav,2,plucked_string,67.558833333
+CTIS,CTIS/data/audio.zip,audio/T0319/【低音热瓦普】空弦音 三弦上拨弦 自然衰减 力度中强 第二遍.wav,2,plucked_string,6.367104167
+CTIS,CTIS/data/audio.zip,audio/T0255/【古筝】演奏技法 肉拨弦 第一遍.wav,2,plucked_string,20.198049887
+CTIS,CTIS/data/audio.zip,audio/T0302/【傈傈族奇奔】演奏技法 泛音 第一遍.wav,2,plucked_string,52.073333333
+CTIS,CTIS/data/audio.zip,audio/T0319/【低音热瓦普】演奏技法 上拨弦下拨弦连拨 第二遍.wav,2,plucked_string,5.843187500
+CTIS,CTIS/data/audio.zip,audio/T0319/【低音热瓦普】空弦音 二弦下拨弦 自然衰减 力度中强 第二遍.wav,2,plucked_string,7.751229167
+CTIS,CTIS/data/audio.zip,audio/T0111/【三弦】 空弦音 自然衰减 力度强 一弦 第二遍.wav,2,plucked_string,7.695104167
+CTIS,CTIS/data/audio.zip,audio/T0260/【中阮】音阶 力度强 扶技法 指音 第二遍.wav,2,plucked_string,71.569750000
+CTIS,CTIS/data/audio.zip,audio/T0111/【三弦】 空弦音 自然衰减 力度弱 中弦 第一遍.wav,2,plucked_string,4.580416667
+CTIS,CTIS/data/audio.zip,audio/T0254/【箜篌】音阶 速度慢 力度强 第二遍.wav,2,plucked_string,53.731473923
+CTIS,CTIS/data/audio.zip,audio/T0302/【傈傈族奇奔】演奏技法 扫弦 第二遍.wav,2,plucked_string,12.696575964
+CTIS,CTIS/data/audio.zip,audio/T0300/【澜沧小三弦】演奏技法 滑音 第二遍.wav,2,plucked_string,26.870000000
+CTIS,CTIS/data/audio.zip,audio/T0300/【澜沧小三弦】空弦音 自然衰减 力度中强 第二遍.wav,2,plucked_string,19.224580499
+CTIS,CTIS/data/audio.zip,audio/T0116/【八角月琴】 特有演奏技法 同度音交替 第一遍.wav,2,plucked_string,5.537770833
+CTIS,CTIS/data/audio.zip,audio/T0262/【琵琶】演奏技法 摘 第一遍.wav,2,plucked_string,5.044761905
+CTIS,CTIS/data/audio.zip,audio/T0254/【箜篌】音阶 速度慢 力度中强 第一遍.wav,2,plucked_string,50.778934240
+CTIS,CTIS/data/audio.zip,audio/T0111/【三弦】 空弦音 自然衰减 力度强 一弦 第一遍.wav,2,plucked_string,7.695104167
+CTIS,CTIS/data/audio.zip,audio/T0294/T0294A2-1c3-1.wav,2,plucked_string,15.319812500
+CTIS,CTIS/data/audio.zip,audio/T0289/【三弦】单弦音阶 演奏技法 弹 力度中强 第二遍.wav,2,plucked_string,293.313129252
+CTIS,CTIS/data/audio.zip,audio/T0171/【月琴】 音阶 慢速 力度强 第一遍.wav,2,plucked_string,42.207770833
+CTIS,CTIS/data/audio.zip,audio/T0238/【大阮】音阶 自然衰减 力度中强 第二遍.wav,2,plucked_string,413.089274376
+CTIS,CTIS/data/audio.zip,audio/T0007/【雅托嘎】 演奏技法 揉弦 第一遍.wav,2,plucked_string,6.986875000
+CTIS,CTIS/data/audio.zip,audio/T0323/【都它尔】空弦音 一弦上拨音 自然衰减 力度中强 第一遍.wav,2,plucked_string,3.130500000
+CTIS,CTIS/data/audio.zip,audio/T0294/【南音琵琶】演奏技法  jiaxian 第一遍.wav,2,plucked_string,7.885520833
+CTIS,CTIS/data/audio.zip,audio/T0087/【雅筝】 演奏技法 滑音 第一遍.wav,2,plucked_string,19.668062500
+CTIS,CTIS/data/audio.zip,audio/T0317/【独弦琴】演奏技法  泛音点 自然衰减 力度强 第一遍.wav,2,plucked_string,38.616250000
+CTIS,CTIS/data/audio.zip,audio/T0262/【琵琶】音阶 中速 力度强 第一遍.wav,2,plucked_string,40.739002268
+CTIS,CTIS/data/audio.zip,audio/T0319/【低音热瓦普】空弦音 三弦上拨弦 自然衰减 力度弱 第二遍.wav,2,plucked_string,6.718562500
+CTIS,CTIS/data/audio.zip,audio/T0289/【三弦】演奏技法 扫弦 抽要 第一遍.wav,2,plucked_string,23.690634921
+CTIS,CTIS/data/audio.zip,audio/T0318/【弹拨尔】演奏技法 短拨 第二遍.wav,2,plucked_string,8.238895833
+CTIS,CTIS/data/audio.zip,audio/T0087/【雅筝】 音阶 慢速 力度弱 第一遍.wav,2,plucked_string,62.772000000
+CTIS,CTIS/data/audio.zip,audio/T0083/【伽倻琴】 音阶 慢速 力度弱 第二遍.wav,2,plucked_string,47.268458333
+CTIS,CTIS/data/audio.zip,audio/T0323/【都它尔】音阶 速度慢 力度中强 第二遍.wav,2,plucked_string,66.248333333
+CTIS,CTIS/data/audio.zip,audio/T0320/【民间热瓦普】演奏技法 滚奏3 第一遍.wav,2,plucked_string,7.866770833
+CTIS,CTIS/data/audio.zip,audio/T0262/【琵琶】演奏技法 弹 第一遍.wav,2,plucked_string,7.138911565
+CTIS,CTIS/data/audio.zip,audio/T0082/【伽倻琴（改良）】 空弦音 自然衰减 力度弱 第二遍.wav,2,plucked_string,108.020458333
+CTIS,CTIS/data/audio.zip,audio/T0262/【琵琶】演奏技法绞弦 第一遍.wav,2,plucked_string,4.979591837
+CTIS,CTIS/data/audio.zip,audio/T0323/【都它尔】音阶 中速 力度强 第一遍.wav,2,plucked_string,21.484020833
+CTIS,CTIS/data/audio.zip,audio/T0319/【低音热瓦普】空弦音 一弦上拨弦 自然衰减 力度弱 第二遍.wav,2,plucked_string,5.934729167
+CTIS,CTIS/data/audio.zip,audio/T0159/【双清】 音阶 慢速 力度弱 第二遍.wav,2,plucked_string,31.056854167
+CTIS,CTIS/data/audio.zip,audio/T0267/【扬琴】演奏技法 左山口外上下划拨 上下行 力度弱 第一遍.wav,2,plucked_string,6.765416667
+CTIS,CTIS/data/audio.zip,audio/T0007/【雅托嘎】 演奏技法 大指劈 第一遍.wav,2,plucked_string,6.267625000
+CTIS,CTIS/data/audio.zip,audio/T0319/【低音热瓦普】音阶 速度慢 力度中强 第二遍.wav,2,plucked_string,37.108791667
+CTIS,CTIS/data/audio.zip,audio/T0319/【低音热瓦普】空弦音 一弦下拨弦 自然衰减 力度强 第一遍.wav,2,plucked_string,9.656291667
+CTIS,CTIS/data/audio.zip,audio/T0319/【低音热瓦普】音阶 速度慢 力度强 第二遍.wav,2,plucked_string,39.020250000
+CTIS,CTIS/data/audio.zip,audio/T0318/【弹拨尔】空弦音 一弦上拨弦 自然衰减 力度弱 第二遍.wav,2,plucked_string,6.091062500
+CTIS,CTIS/data/audio.zip,audio/T0261/【柳琴】演奏技法 双弹 第二遍.wav,2,plucked_string,20.409705215
+CTIS,CTIS/data/audio.zip,audio/T0301/【玎】演奏技法 滑音 第二遍.wav,2,plucked_string,44.668163265
+CTIS,CTIS/data/audio.zip,audio/T0260/【中阮】跨弦音阶 力度强 弹技法 指音 第二遍.wav,2,plucked_string,158.967583333
+CTIS,CTIS/data/audio.zip,audio/T0078/【四股弦】 音阶 慢速 力度强 第二遍.wav,2,plucked_string,34.334937500
+CTIS,CTIS/data/audio.zip,audio/T0302/【傈傈族奇奔】演奏技法 轮音 第一遍.wav,2,plucked_string,71.932290249
+CTIS,CTIS/data/audio.zip,audio/T0318/【弹拨尔】空弦音 二弦上拨弦 自然衰减 力度中强 第一遍.wav,2,plucked_string,5.058958333
+CTIS,CTIS/data/audio.zip,audio/T0116/【八角月琴】 音阶 中速 力度强 第二遍.wav,2,plucked_string,30.710041667
+CTIS,CTIS/data/audio.zip,audio/T0078/【四股弦】 特有演奏技法 轮指1 第二遍.wav,2,plucked_string,5.822395833
+CTIS,CTIS/data/audio.zip,audio/T0083/【伽倻琴】 空弦音 自然衰减 力度弱 第二遍.wav,2,plucked_string,73.702333333
+CTIS,CTIS/data/audio.zip,audio/T0082/【伽倻琴（改良）】 音阶 慢速 力度中强 第二遍.wav,2,plucked_string,48.151145833
+CTIS,CTIS/data/audio.zip,audio/T0111/【三弦】 空弦音 自然衰减 力度中强 一弦 第一遍.wav,2,plucked_string,4.177354167
+CTIS,CTIS/data/audio.zip,audio/T0088/【扬琴】 空弦音 自然衰减 力度强 第二遍.wav,2,plucked_string,332.219020833
+CTIS,CTIS/data/audio.zip,audio/T0255/【古筝】音阶 速度慢 力度强 第二遍.wav,2,plucked_string,37.401836735
+CTIS,CTIS/data/audio.zip,audio/T0300/【澜沧小三弦】音阶 速度慢 力度强 第二遍.wav,2,plucked_string,43.372471655
+CTIS,CTIS/data/audio.zip,audio/T0171/【月琴】 演奏技法 华彩 第一遍.wav,2,plucked_string,29.199395833
+CTIS,CTIS/data/audio.zip,audio/T0111/【三弦】 演奏技法 连音 第一遍.wav,2,plucked_string,4.427750000
+CTIS,CTIS/data/audio.zip,audio/T0323/【都它尔】音阶 速度慢 力度中强 第一遍.wav,2,plucked_string,66.088875000
+CTIS,CTIS/data/audio.zip,audio/T0159/【双清】 演奏技法 揉弦 外弦 第二遍.wav,2,plucked_string,6.505166667
+CTIS,CTIS/data/audio.zip,audio/T0171/【月琴】 音阶 慢速 力度弱 第一遍.wav,2,plucked_string,41.627604167
+CTIS,CTIS/data/audio.zip,audio/T0006/【陶布舒尔】 空弦音 自然衰减 力度强 第一遍.wav,2,plucked_string,8.500000000
+CTIS,CTIS/data/audio.zip,audio/T0171/【月琴】 音阶 慢速 力度中强 第二遍.wav,2,plucked_string,42.787958333
+CTIS,CTIS/data/audio.zip,audio/T0260/【中阮】跨弦音阶 力度强 挑技法 指音 第一遍.wav,2,plucked_string,153.575375000
+CTIS,CTIS/data/audio.zip,audio/T0254/【箜篌】演奏技法 和弦 第二遍.wav,2,plucked_string,38.005124717
+CTIS,CTIS/data/audio.zip,audio/T0320/【民间热瓦普】演奏技法 上拨弦下拨弦连拨 第一遍.wav,2,plucked_string,9.712770833
+CTIS,CTIS/data/audio.zip,audio/T0323/【都它尔】空弦音 一弦下拨音 自然衰减 力度弱 第二遍.wav,2,plucked_string,1.501145833
+CTIS,CTIS/data/audio.zip,audio/T0078/【四股弦】 空弦音 筒音 自然衰减 力度强 外弦 第二遍.wav,2,plucked_string,5.137416667
+CTIS,CTIS/data/audio.zip,audio/T0260/【中阮】音阶 力度强 双弹技法 指音 第一遍.wav,2,plucked_string,123.917104167
+CTIS,CTIS/data/audio.zip,audio/T0319/【低音热瓦普】音阶 速度慢 力度中强 第一遍.wav,2,plucked_string,37.348500000
+CTIS,CTIS/data/audio.zip,audio/T0289/【三弦】演奏技法 左手打音技法 力度中强 第一遍.wav,2,plucked_string,23.504943311
+CTIS,CTIS/data/audio.zip,audio/T0295/【南音三弦】演奏技法 摆音  第一遍.wav,2,plucked_string,14.646062500
+CTIS,CTIS/data/audio.zip,audio/T0318/【弹拨尔】演奏技法 滚奏 第一遍.wav,2,plucked_string,8.616479167
+CTIS,CTIS/data/audio.zip,audio/T0289/【三弦】演奏技法 直弦 力度强 第一遍.wav,2,plucked_string,44.612154195
+CTIS,CTIS/data/audio.zip,audio/T0267/【扬琴】演奏技法 指肚上下划拨 力度中强 加增益 第一遍.wav,2,plucked_string,6.292895833
+CTIS,CTIS/data/audio.zip,audio/T0082/【伽倻琴（改良）】 演奏技法 颤音 第二遍.wav,2,plucked_string,25.993104167
+CTIS,CTIS/data/audio.zip,audio/T0317/【独弦琴】演奏技法 拍弹 第一遍..wav,2,plucked_string,11.171833333
+CTIS,CTIS/data/audio.zip,audio/T0159/【双清】 空弦音 自然衰减 力度弱 内外弦 第二遍.wav,2,plucked_string,10.632083333
+CTIS,CTIS/data/audio.zip,audio/T0302/【傈傈族奇奔】空弦音 自然衰减 力度中强 第二遍.wav,2,plucked_string,19.798639456
+CTIS,CTIS/data/audio.zip,audio/T0267/【扬琴】演奏技法 击板 轮奏 琴盖边 力度强 第一遍.wav,2,plucked_string,1.323583333
+CTIS,CTIS/data/audio.zip,audio/T0323/【都它尔】空弦音 二弦下拨音 自然衰减 力度强 第二遍.wav,2,plucked_string,3.839687500
+CTIS,CTIS/data/audio.zip,audio/T0261/【柳琴】演奏技法 泛音 第二遍.wav,2,plucked_string,26.282154195
+CTIS,CTIS/data/audio.zip,audio/T0320/【民间热瓦普】空弦音 一弦下拨弦 自然衰减 力度弱 第二遍.wav,2,plucked_string,4.328854167
+CTIS,CTIS/data/audio.zip,audio/T0323/【都它尔】空弦音 一弦下拨音 自然衰减 力度中强 第二遍.wav,2,plucked_string,3.161291667
+CTIS,CTIS/data/audio.zip,audio/T0289/【三弦】跨弦音阶 演奏技法 弹 指音 力度弱 第二遍.wav,2,plucked_string,146.727596372
+CTIS,CTIS/data/audio.zip,audio/T0262/【琵琶】演奏技法 吟揉 第一遍.wav,2,plucked_string,9.484489796
+CTIS,CTIS/data/audio.zip,audio/T0082/【伽倻琴（改良）】 空弦音 自然衰减 力度中强 第二遍.wav,2,plucked_string,164.054729167
+CTIS,CTIS/data/audio.zip,audio/T0238/【大阮】演奏技法 自然泛音 第一遍.wav,2,plucked_string,13.262585034
+CTIS,CTIS/data/audio.zip,audio/T0267/【扬琴】演奏技法 左山口外上下划拨 上下行 力度强 第一遍.wav,2,plucked_string,4.119062500
+CTIS,CTIS/data/audio.zip,audio/T0289/【三弦】演奏技法 摇指 力度中强 第一遍.wav,2,plucked_string,55.414013605
+CTIS,CTIS/data/audio.zip,audio/T0267/【扬琴】演奏技法 山口内上下划拨 上行 力度弱 第一遍.wav,2,plucked_string,7.213083333
+CTIS,CTIS/data/audio.zip,audio/T0159/【双清】 演奏技法 滑揉 内弦 第一遍.wav,2,plucked_string,3.197854167
+CTIS,CTIS/data/audio.zip,audio/T0171/【月琴】 演奏技法 轮指 内弦 外弦 第二遍.wav,2,plucked_string,15.059375000
+CTIS,CTIS/data/audio.zip,audio/T0319/【低音热瓦普】音阶 速度慢力度弱 第一遍.wav,2,plucked_string,43.068520833
+CTIS,CTIS/data/audio.zip,audio/T0082/【伽倻琴（改良）】 音阶 慢速 力度强 第二遍.wav,2,plucked_string,59.443208333
+CTIS,CTIS/data/audio.zip,audio/T0267/【扬琴】演奏技法 左山口外上下划拨 上行 力度中强 第一遍.wav,2,plucked_string,4.171354167
+CTIS,CTIS/data/audio.zip,audio/T0261/【柳琴】音阶 速度慢 力度弱 第二遍.wav,2,plucked_string,59.398503401
+CTIS,CTIS/data/audio.zip,audio/T0078/【四股弦】 特有演奏技法 轮指3 第二遍.wav,2,plucked_string,5.822395833
+CTIS,CTIS/data/audio.zip,audio/T0159/【双清】 音阶 慢速 力度中强 第一遍.wav,2,plucked_string,27.979145833
+CTIS,CTIS/data/audio.zip,audio/T0083/【伽倻琴】 演奏技法 颤音 第一遍.wav,2,plucked_string,31.382083333
+CTIS,CTIS/data/audio.zip,audio/T0319/【低音热瓦普】空弦音 一弦上拨弦 自然衰减 力度中强 第一遍.wav,2,plucked_string,5.885791667
+CTIS,CTIS/data/audio.zip,audio/T0262/【琵琶】演奏技法 打代 第一遍.wav,2,plucked_string,4.002947846
+CTIS,CTIS/data/audio.zip,audio/T0319/【低音热瓦普】空弦音 二弦下拨弦 自然衰减 力度强 第一遍.wav,2,plucked_string,9.341416667
+CTIS,CTIS/data/audio.zip,audio/T0267/【扬琴】演奏技法 山口内上下划拨 上行 力度强 第一遍.wav,2,plucked_string,11.554708333
+CTIS,CTIS/data/audio.zip,audio/T0318/【弹拨尔】空弦音 二弦下拨弦 自然衰减 力度弱 第一遍.wav,2,plucked_string,5.169666667
+CTIS,CTIS/data/audio.zip,audio/T0294/【南音琵琶】演奏技法 勾 第一遍.wav,2,plucked_string,8.966083333
+CTIS,CTIS/data/audio.zip,audio/T0111/【三弦】 音阶 自然衰减 力度中强 第二遍.wav,2,plucked_string,75.716125000
+CTIS,CTIS/data/audio.zip,audio/T0116/【八角月琴】 特有演奏技法 华彩 第二遍.wav,2,plucked_string,13.436812500
+CTIS,CTIS/data/audio.zip,audio/T0238/【大阮】演奏技法 挑技法 第一遍.wav,2,plucked_string,13.763718821
+CTIS,CTIS/data/audio.zip,audio/T0289/【三弦】单弦音阶 演奏技法 弹 指音 力度强 第二遍.wav,2,plucked_string,285.955170068
+CTIS,CTIS/data/audio.zip,audio/T0261/【柳琴】演奏技法 泛音 第一遍.wav,2,plucked_string,24.005941043
+CTIS,CTIS/data/audio.zip,audio/T0078/【四股弦】 音阶 中速 力度强 第一遍.wav,2,plucked_string,29.968145833
+CTIS,CTIS/data/audio.zip,audio/T0159/【双清】 空弦音 自然衰减 力度强 内外弦 第一遍.wav,2,plucked_string,11.051770833
+CTIS,CTIS/data/audio.zip,audio/T0007/【雅托嘎】 音阶 慢速 力度强 第二遍.wav,2,plucked_string,58.874562500
+CTIS,CTIS/data/audio.zip,audio/T0159/【双清】 音阶 慢速 力度中强 第二遍.wav,2,plucked_string,27.979145833
+CTIS,CTIS/data/audio.zip,audio/T0267/【扬琴】演奏技法 右山口外上下划拨 上行 力度中强 第一遍.wav,2,plucked_string,5.796395833
+CTIS,CTIS/data/audio.zip,audio/T0262/【琵琶】音阶 速度慢 力度弱 第二遍.wav,2,plucked_string,57.924421769
+CTIS,CTIS/data/audio.zip,audio/T0302/【傈傈族奇奔】演奏技法 轮音 第二遍.wav,2,plucked_string,61.972471655
+CTIS,CTIS/data/audio.zip,audio/T0007/【雅托嘎】 演奏技法 食指摸 第二遍.wav,2,plucked_string,6.575875000
+CTIS,CTIS/data/audio.zip,audio/T0262/【琵琶】演奏技法 弹 第二遍.wav,2,plucked_string,6.334693878
+CTIS,CTIS/data/audio.zip,audio/T0289/【三弦】演奏技法 上弹 力度中强 第一遍.wav,2,plucked_string,29.000000000
+CTIS,CTIS/data/audio.zip,audio/T0159/【双清】 音阶 慢速 力度强 第二遍.wav,2,plucked_string,31.056854167
+CTIS,CTIS/data/audio.zip,audio/T0301/【玎】空弦音 自然衰减 力度强 第一遍.wav,2,plucked_string,28.009773243
+CTIS,CTIS/data/audio.zip,audio/T0238/【大阮】音阶 中速 力度强 第二遍.wav,2,plucked_string,36.795623583
+CTIS,CTIS/data/audio.zip,audio/T0238/【大阮】演奏技法 挑技法 第二遍.wav,2,plucked_string,11.917551020
+CTIS,CTIS/data/audio.zip,audio/T0116/【八角月琴】 特有演奏技法 华彩 第一遍.wav,2,plucked_string,15.460770833
+CTIS,CTIS/data/audio.zip,audio/T0319/【低音热瓦普】音阶 速度慢力度弱 第二遍.wav,2,plucked_string,39.094958333
+CTIS,CTIS/data/audio.zip,audio/T0238/【大阮】演奏技法 双弹 第一遍.wav,2,plucked_string,10.272018141
+CTIS,CTIS/data/audio.zip,audio/T0171/【月琴】 音阶 慢速 力度弱 第二遍.wav,2,plucked_string,49.024833333
+CTIS,CTIS/data/audio.zip,audio/T0083/【伽倻琴】 音阶 中速 力度强 第二遍.wav,2,plucked_string,46.226729167
+CTIS,CTIS/data/audio.zip,audio/T0262/【琵琶】演奏技法 推拉弦 第二遍.wav,2,plucked_string,8.791428571
+CTIS,CTIS/data/audio.zip,audio/T0260/【中阮】音阶 力度弱 双挑技法 指音 第二遍.wav,2,plucked_string,105.514166667
+CTIS,CTIS/data/audio.zip,audio/T0260/【中阮】音阶 力度弱 扫技法 指音 第二遍.wav,2,plucked_string,74.890395833
+CTIS,CTIS/data/audio.zip,audio/T0254/【箜篌】演奏技法 颤音 第二遍.wav,2,plucked_string,16.830793651
+CTIS,CTIS/data/audio.zip,audio/T0254/【箜篌】演奏技法 颤音 第一遍.wav,2,plucked_string,17.082993197
+CTIS,CTIS/data/audio.zip,audio/T0289/【三弦】跨弦音阶 演奏技法 弹 指音 力度弱 第一遍.wav,2,plucked_string,121.408231293
+CTIS,CTIS/data/audio.zip,audio/T0111/【三弦】 音阶 慢速 力度弱 第一遍.wav,2,plucked_string,31.402500000
+CTIS,CTIS/data/audio.zip,audio/T0007/【雅托嘎】 演奏技法 大指托 第一遍.wav,2,plucked_string,6.267625000
+CTIS,CTIS/data/audio.zip,audio/T0087/【雅筝】 空弦音 自然衰减 力度中强 第二遍.wav,2,plucked_string,27.505145833
+CTIS,CTIS/data/audio.zip,audio/T0267/【扬琴】演奏技法 右山口外上下划拨 上下行 力度强 第一遍.wav,2,plucked_string,4.924958333
+CTIS,CTIS/data/audio.zip,audio/T0260/【中阮】跨弦音阶 力度弱 挑技法 指音 第一遍.wav,2,plucked_string,152.886166667
+CTIS,CTIS/data/audio.zip,audio/T0078/【四股弦】 空弦音 筒音 自然衰减 力度中强 外弦 第一遍.wav,2,plucked_string,4.794916667
+CTIS,CTIS/data/audio.zip,audio/T0289/【三弦】音阶 演奏技法 弹 指音 力度弱 第一遍.wav,2,plucked_string,298.950068027
+CTIS,CTIS/data/audio.zip,audio/T0323/【都它尔】空弦音 一弦上拨音 自然衰减 力度强 第二遍.wav,2,plucked_string,2.629145833
+CTIS,CTIS/data/audio.zip,audio/T0171/【月琴】 演奏技法 扫弦 第一遍.wav,2,plucked_string,6.493145833
+CTIS,CTIS/data/audio.zip,audio/T0318/【弹拨尔】空弦音 一弦上拨弦 自然衰减 力度强 第二遍.wav,2,plucked_string,7.978937500
+CTIS,CTIS/data/audio.zip,audio/T0319/【低音热瓦普】空弦音 二弦上拨弦 自然衰减 力度弱 第一遍.wav,2,plucked_string,4.680437500
+CTIS,CTIS/data/audio.zip,audio/T0317/【独弦琴】演奏技法 拍奏 第一遍.wav,2,plucked_string,10.455520833
+CTIS,CTIS/data/audio.zip,audio/T0078/【四股弦】 音阶 自然衰减 力度中强 第二遍.wav,2,plucked_string,57.795708333
+CTIS,CTIS/data/audio.zip,audio/T0255/【古筝】乐曲片段 山东筝曲《高山流水》.wav,2,plucked_string,29.983038549
+CTIS,CTIS/data/audio.zip,audio/T0007/【雅托嘎】 音阶 慢速 力度中强 第二遍.wav,2,plucked_string,55.278395833
+CTIS,CTIS/data/audio.zip,audio/T0320/【民间热瓦普】空弦音 泛音弦下拨弦 自然衰减 力度弱 第一遍.wav,2,plucked_string,7.937958333
+CTIS,CTIS/data/audio.zip,audio/T0083/【伽倻琴】 演奏技法 颤音 第二遍.wav,2,plucked_string,31.382083333
+CTIS,CTIS/data/audio.zip,audio/T0260/【中阮】跨弦音阶 力度中 挑技法 指音 第二遍.wav,2,plucked_string,154.352333333
+CTIS,CTIS/data/audio.zip,audio/T0255/【古筝】演奏技法 颤弦 第二遍.wav,2,plucked_string,22.661405896
+CTIS,CTIS/data/audio.zip,audio/T0262/【琵琶】演奏技法 扫佛 第一遍.wav,2,plucked_string,7.694829932
+CTIS,CTIS/data/audio.zip,audio/T0159/【双清】 演奏技法 轮指 内弦 第一遍.wav,2,plucked_string,5.464687500
+CTIS,CTIS/data/audio.zip,audio/T0238/【大阮】演奏技法 弹技法 第一遍.wav,2,plucked_string,11.569002268
+CTIS,CTIS/data/audio.zip,audio/T0319/【低音热瓦普】空弦音 二弦上拨弦 自然衰减 力度弱 第二遍.wav,2,plucked_string,8.510187500
+CTIS,CTIS/data/audio.zip,audio/T0078/【四股弦】 空弦音 筒音 自然衰减 力度中强 内弦 第一遍.wav,2,plucked_string,4.794916667
+CTIS,CTIS/data/audio.zip,audio/T0320/【民间热瓦普】演奏技法 滚奏3 第二遍.wav,2,plucked_string,8.591666667
+CTIS,CTIS/data/audio.zip,audio/T0301/【玎】演奏技法 揉弦 第一遍.wav,2,plucked_string,37.483265306
+CTIS,CTIS/data/audio.zip,audio/T0087/【雅筝】 音阶 慢速 力度中强 第二遍.wav,2,plucked_string,56.668125000
+CTIS,CTIS/data/audio.zip,audio/T0083/【伽倻琴】 空弦音 自然衰减 力度弱 第一遍.wav,2,plucked_string,73.702333333
+CTIS,CTIS/data/audio.zip,audio/T0261/【柳琴】空弦音 自然衰减 力度强 挑技法 第一遍.wav,2,plucked_string,42.686394558
+CTIS,CTIS/data/audio.zip,audio/T0295/【南音三弦】演奏技法 挑  第一遍.wav,2,plucked_string,9.149187500
+CTIS,CTIS/data/audio.zip,audio/T0081/【玄琴】 空弦音 自然衰减 力度强 第二遍.wav,2,plucked_string,58.874562500
+CTIS,CTIS/data/audio.zip,audio/T0078/【四股弦】 演奏技法 长音 外弦 第二遍.wav,2,plucked_string,3.681812500
+CTIS,CTIS/data/audio.zip,audio/L0158/【低音伬胡】演奏技法 华彩 第一遍.wav,3,bowed_string,93.266208333
+CTIS,CTIS/data/audio.zip,audio/L0239/【高音板胡】演奏技法 打音 第一遍.wav,3,bowed_string,10.677052154
+CTIS,CTIS/data/audio.zip,audio/L0121/【六角弦】空弦音 力度弱 内外弦 第一遍.wav,3,bowed_string,7.232290249
+CTIS,CTIS/data/audio.zip,audio/L0135/【齐琴】演奏技法 滑音 上下 第一遍.wav,3,bowed_string,5.489251701
+CTIS,CTIS/data/audio.zip,audio/L0292/【六角高胡】音阶 速度慢 力度弱 第二遍.wav,3,bowed_string,29.427812500
+CTIS,CTIS/data/audio.zip,audio/L0115/【莱芜梆子-梆胡】演奏技法 下滑音 第二遍.wav,3,bowed_string,2.283083900
+CTIS,CTIS/data/audio.zip,audio/L0056/【壮剧马骨胡 D调】空弦音 自然衰减 力度强 内弦 拉 第二遍.wav,3,bowed_string,2.000000000
+CTIS,CTIS/data/audio.zip,audio/L0288/【椰胡】音阶 慢速 力度弱 第二遍.wav,3,bowed_string,23.062416667
+CTIS,CTIS/data/audio.zip,audio/L0141/【越胡】特有演奏技法 揉弦 第一遍.wav,3,bowed_string,3.429002268
+CTIS,CTIS/data/audio.zip,audio/L0074/【壮剧土胡】音阶 慢速 力度弱 第二遍.wav,3,bowed_string,49.355192744
+CTIS,CTIS/data/audio.zip,audio/L0297/【中胡】演奏技巧 右手拨弦 第二遍.wav,3,bowed_string,2.519812500
+CTIS,CTIS/data/audio.zip,audio/L0156/【工胡】演奏技法 华彩 第一遍.wav,3,bowed_string,28.816937500
+CTIS,CTIS/data/audio.zip,audio/L0149/【绍剧板胡】 音阶 力度中强 1 5弦 第一遍.wav,3,bowed_string,44.233708333
+CTIS,CTIS/data/audio.zip,audio/L0158/【低音伬胡】演奏技法 颤弓 第一遍.wav,3,bowed_string,2.816062500
+CTIS,CTIS/data/audio.zip,audio/L0165/【高腔赣胡】 演奏技法 华彩 第一遍.wav,3,bowed_string,43.613708333
+CTIS,CTIS/data/audio.zip,audio/L0077/【晋剧二股弦】音阶 慢速 力度强 第一遍.wav,3,bowed_string,12.859251701
+CTIS,CTIS/data/audio.zip,audio/L0080/【吕剧坠琴】演奏技法 连音 第一遍.wav,3,bowed_string,5.338934240
+CTIS,CTIS/data/audio.zip,audio/L0133/【陇剧陇胡（传统）】演奏技法 长音 内外弦 第二遍.wav,3,bowed_string,16.573219955
+CTIS,CTIS/data/audio.zip,audio/L0266/【二胡】演奏技法 右手拨弦 力度强 第二遍.wav,3,bowed_string,23.154149660
+CTIS,CTIS/data/audio.zip,audio/L0168/【花胡】 演奏技法 长音 内外弦 第一遍.wav,3,bowed_string,9.485812500
+CTIS,CTIS/data/audio.zip,audio/L0149/【绍剧板胡】 演奏技法 打音 单打 第一遍.wav,3,bowed_string,1.509437500
+CTIS,CTIS/data/audio.zip,audio/L0086/【中音奚琴（改良）】音阶 中速 力度强 第二遍.wav,3,bowed_string,21.855963719
+CTIS,CTIS/data/audio.zip,audio/L0136/【渔胡】特有演奏技法 滑揉 第二遍.wav,3,bowed_string,2.715442177
+CTIS,CTIS/data/audio.zip,audio/L0084/【奚琴（传统）】音阶 中速 力度强 第二遍.wav,3,bowed_string,18.456848073
+CTIS,CTIS/data/audio.zip,audio/L0139/【坠胡】演奏技法 长音 内外弦 第二遍.wav,3,bowed_string,10.858458050
+CTIS,CTIS/data/audio.zip,audio/L0073/【盖板（传统）】演奏技法 颤弓 第一遍.wav,3,bowed_string,3.753877551
+CTIS,CTIS/data/audio.zip,audio/L0046/【扬剧主胡 F调】音阶 慢速 力度弱 第二遍.wav,3,bowed_string,48.704172336
+CTIS,CTIS/data/audio.zip,audio/L0312/【牛角胡】音阶 慢速 力度弱 第一遍.wav,3,bowed_string,88.197414966
+CTIS,CTIS/data/audio.zip,audio/L0149/【绍剧板胡】 空弦音 力度强 内外弦 第一遍.wav,3,bowed_string,4.434708333
+CTIS,CTIS/data/audio.zip,audio/L0313/【佤族独弦琴】空弦音 自然衰减 力度强 拉弓 第一遍.wav,3,bowed_string,7.089977324
+CTIS,CTIS/data/audio.zip,audio/L0086/【中音奚琴（改良）】音阶 慢速 力度弱 第一遍.wav,3,bowed_string,43.651995465
+CTIS,CTIS/data/audio.zip,audio/L0084/【奚琴（传统）】演奏技法 滑音 第二遍.wav,3,bowed_string,14.546938776
+CTIS,CTIS/data/audio.zip,audio/L0056/【壮剧马骨胡 D调】音阶 慢速 力度弱 第一遍.wav,3,bowed_string,41.928049887
+CTIS,CTIS/data/audio.zip,audio/L0240/【中音板胡】 演奏技法 大上滑音 第一遍.wav,3,bowed_string,4.699333333
+CTIS,CTIS/data/audio.zip,audio/L0134/【陇剧陇胡（改良）D调】特有演奏技法 分弓连打 第二遍.wav,3,bowed_string,5.818140590
+CTIS,CTIS/data/audio.zip,audio/L0163/【雷胡】 演奏技法 打音 单打 第二遍.wav,3,bowed_string,2.116041667
+CTIS,CTIS/data/audio.zip,audio/L0073/【盖板（传统）】空弦音 筒音 自然衰减 力度中强 内弦 拉 第二遍.wav,3,bowed_string,2.986802721
+CTIS,CTIS/data/audio.zip,audio/L0151/【四弦】 演奏技法 滑音 上滑 下滑 第二遍.wav,3,bowed_string,2.144812500
+CTIS,CTIS/data/audio.zip,audio/L0154/【仕胡】演奏技法 颤弓 第二遍.wav,3,bowed_string,3.979958333
+CTIS,CTIS/data/audio.zip,audio/L0077/【晋剧二股弦】空弦音 自然衰减 力度强 外弦 推 第一遍.wav,3,bowed_string,2.407551020
+CTIS,CTIS/data/audio.zip,audio/L0153/【云南花灯 丝弦】空弦音 力度中强 内外弦 第二遍.wav,3,bowed_string,3.981541667
+CTIS,CTIS/data/audio.zip,audio/L0165/【高腔赣胡】 演奏技法 连音 第一遍.wav,3,bowed_string,4.937416667
+CTIS,CTIS/data/audio.zip,audio/L0053/【广西彩调主胡】演奏技法 打音 单打 第二遍.wav,3,bowed_string,0.984013605
+CTIS,CTIS/data/audio.zip,audio/L0168/【花胡】 演奏技法 打音 连打 第二遍.wav,3,bowed_string,2.722270833
+CTIS,CTIS/data/audio.zip,audio/L0134/【陇剧陇胡（改良）D调】音阶 力度中强 第一遍.wav,3,bowed_string,49.758956916
+CTIS,CTIS/data/audio.zip,audio/L0136/【渔胡】演奏技法 华彩 第一遍.wav,3,bowed_string,40.742290249
+CTIS,CTIS/data/audio.zip,audio/L0312/【牛角胡】演奏技巧 双弦 [第二种演奏技法] 第二遍.wav,3,bowed_string,42.658185941
+CTIS,CTIS/data/audio.zip,audio/L0044/【锡剧主胡】空弦音 力度弱 自然衰减 内弦 拉 第二遍.wav,3,bowed_string,5.426848073
+CTIS,CTIS/data/audio.zip,audio/L0134/【陇剧陇胡（改良）D调】空弦音 力度弱 内外弦 第一遍.wav,3,bowed_string,8.498843537
+CTIS,CTIS/data/audio.zip,audio/L0240/【中音板胡】 演奏技法 揉弦 第一遍.wav,3,bowed_string,14.034479167
+CTIS,CTIS/data/audio.zip,audio/L0121/【六角弦】演奏技法 连音 外弦 第一遍.wav,3,bowed_string,3.488480726
+CTIS,CTIS/data/audio.zip,audio/L0266/【二胡】演奏技法 迟到揉弦 中等力度 第二遍.wav,3,bowed_string,30.387006803
+CTIS,CTIS/data/audio.zip,audio/L0156/【工胡】演奏技法 长音 内外弦 第一遍.wav,3,bowed_string,11.322687500
+CTIS,CTIS/data/audio.zip,audio/L0156/【工胡】演奏技法 连音 第一遍.wav,3,bowed_string,3.498854167
+CTIS,CTIS/data/audio.zip,audio/L0053/【广西彩调主胡】特有演奏技法 揉弦 第一遍.wav,3,bowed_string,5.266303855
+CTIS,CTIS/data/audio.zip,audio/L0153/【云南花灯 丝弦】演奏技法 揉弦 第二遍.wav,3,bowed_string,4.714708333
+CTIS,CTIS/data/audio.zip,audio/L0122/【壳仔弦】音阶 慢速 力度中强 第一遍.wav,3,bowed_string,24.612539683
+CTIS,CTIS/data/audio.zip,audio/L0053/【广西彩调主胡】演奏技法 长音 外弦 推 第二遍.wav,3,bowed_string,14.409727891
+CTIS,CTIS/data/audio.zip,audio/L0045/【扬剧主胡 D调】 空弦音 自然衰减 力度强 外弦 推 第二遍.wav,3,bowed_string,3.000000000
+CTIS,CTIS/data/audio.zip,audio/L0312/【牛角胡】音阶 自然衰减 力度中强 第一遍.wav,3,bowed_string,115.135079365
+CTIS,CTIS/data/audio.zip,audio/L0135/【齐琴】音阶 慢速 力度中强 15弦 第一遍.wav,3,bowed_string,39.097664399
+CTIS,CTIS/data/audio.zip,audio/L0150/【宛梆子 梆胡】 空弦音 力度弱 内外弦 第二遍.wav,3,bowed_string,24.375000000
+CTIS,CTIS/data/audio.zip,audio/L0153/【云南花灯 丝弦】演奏技法 滑音 上滑 下滑 第一遍.wav,3,bowed_string,2.571666667
+CTIS,CTIS/data/audio.zip,audio/L0153/【云南花灯 丝弦】演奏技法 长音 内外弦 第一遍.wav,3,bowed_string,19.044958333
+CTIS,CTIS/data/audio.zip,audio/L0139/【坠胡】音阶 慢速 力度强 25弦 第一遍.wav,3,bowed_string,32.160997732
+CTIS,CTIS/data/audio.zip,audio/L0139/【坠胡】演奏技法 华彩 第二遍.wav,3,bowed_string,18.421882086
+CTIS,CTIS/data/audio.zip,audio/L0074/【壮剧土胡】特有演奏技法 抛弓 第二遍.wav,3,bowed_string,3.774013605
+CTIS,CTIS/data/audio.zip,audio/L0053/【广西彩调主胡】演奏技法 连音 第一遍.wav,3,bowed_string,5.880158730
+CTIS,CTIS/data/audio.zip,audio/L0056/【壮剧马骨胡 D调】空弦音 自然衰减 力度中强 外弦 推 第二遍.wav,3,bowed_string,3.000000000
+CTIS,CTIS/data/audio.zip,audio/L0053/【广西彩调主胡】音阶 慢速 力度中强 第二遍.wav,3,bowed_string,38.653514739
+CTIS,CTIS/data/audio.zip,audio/L0084/【奚琴（传统）】演奏技法 连音 第二遍.wav,3,bowed_string,9.847845805
+CTIS,CTIS/data/audio.zip,audio/L0312/【牛角胡】演奏技巧 颤音 第一遍.wav,3,bowed_string,34.408049887
+CTIS,CTIS/data/audio.zip,audio/L0133/【陇剧陇胡（传统）】演奏技法 连音 第二遍.wav,3,bowed_string,8.089274376
+CTIS,CTIS/data/audio.zip,audio/L0139/【坠胡】空弦音 力度弱 内外弦 第二遍.wav,3,bowed_string,9.655192744
+CTIS,CTIS/data/audio.zip,audio/L0115/【莱芜梆子-梆胡】演奏技法 连音 第二遍.wav,3,bowed_string,5.286394558
+CTIS,CTIS/data/audio.zip,audio/L0044/【锡剧主胡】演奏技法 长音 外弦 推 第一遍.wav,3,bowed_string,11.147664399
+CTIS,CTIS/data/audio.zip,audio/L0312/【牛角胡】演奏技巧 双弦 第二遍.wav,3,bowed_string,34.536598639
+CTIS,CTIS/data/audio.zip,audio/L0055/【牛腿琴】演奏技法 打音 第一遍.wav,3,bowed_string,6.501723356
+CTIS,CTIS/data/audio.zip,audio/L0133/【陇剧陇胡（传统）】演奏技法 长音 内外弦 第一遍.wav,3,bowed_string,15.548117914
+CTIS,CTIS/data/audio.zip,audio/L0115/【莱芜梆子-梆胡】音阶 慢速 力度中强 第一遍.wav,3,bowed_string,38.921632653
+CTIS,CTIS/data/audio.zip,audio/L0134/【陇剧陇胡（改良）D调】音阶 慢速 力度中强 第二遍.wav,3,bowed_string,26.200839002
+CTIS,CTIS/data/audio.zip,audio/L0266/【二胡】演奏技法 下滑音 中等力度 第一遍.wav,3,bowed_string,10.867528345
+CTIS,CTIS/data/audio.zip,audio/L0256/【雷琴】演奏技法 食指演奏法 第二遍.wav,3,bowed_string,10.744852608
+CTIS,CTIS/data/audio.zip,audio/L0266/【二胡】演奏技法 人工泛音 中等力度 第二遍.wav,3,bowed_string,4.842244898
+CTIS,CTIS/data/audio.zip,audio/L0168/【花胡】 演奏技法 颤弓 第二遍.wav,3,bowed_string,3.429354167
+CTIS,CTIS/data/audio.zip,audio/L0164/【赣胡】 演奏技法 颤弓 第二遍.wav,3,bowed_string,5.554583333
+CTIS,CTIS/data/audio.zip,audio/L0256/【雷琴】音阶 速度慢 力度中强 第一遍.wav,3,bowed_string,26.524943311
+CTIS,CTIS/data/audio.zip,audio/L0072/【盖板（新）D调】空弦音 筒音 自然衰减 力度弱 外弦 推 第二遍.wav,3,bowed_string,5.563514739
+CTIS,CTIS/data/audio.zip,audio/L0080/【吕剧坠琴】音阶 自然衰减 力度中强 第二遍.wav,3,bowed_string,59.538276644
+CTIS,CTIS/data/audio.zip,audio/L0047/【 扬剧主胡（小西皮）】音阶 自然衰减 力度中强 第一遍.wav,3,bowed_string,43.710113379
+CTIS,CTIS/data/audio.zip,audio/L0047/【 扬剧主胡（小西皮）】空弦音 筒音 自然衰减 力度中强 外弦 推 第一遍.wav,3,bowed_string,2.927551020
+CTIS,CTIS/data/audio.zip,audio/L0164/【赣胡】 空弦音 力度中强 内外弦 第一遍.wav,3,bowed_string,8.869520833
+CTIS,CTIS/data/audio.zip,audio/L0077/【晋剧二股弦】音阶 慢速 力度弱 第二遍.wav,3,bowed_string,15.655396825
+CTIS,CTIS/data/audio.zip,audio/L0169/【花胡】 演奏技法 打音 单打 第一遍.wav,3,bowed_string,1.000583333
+CTIS,CTIS/data/audio.zip,audio/L0086/【中音奚琴（改良）】演奏技法 颤音 第二遍.wav,3,bowed_string,22.993356009
+CTIS,CTIS/data/audio.zip,audio/L0157/【大胡】音阶 慢速 力度强 5 2弦 第一遍.wav,3,bowed_string,14.906687500
+CTIS,CTIS/data/audio.zip,audio/L0167/【黔胡】 音阶 慢速 力度中强 5 2 弦 第二遍.wav,3,bowed_string,41.414937500
+CTIS,CTIS/data/audio.zip,audio/L0053/【广西彩调主胡】演奏技法 打音 连打 第二遍.wav,3,bowed_string,2.965986395
+CTIS,CTIS/data/audio.zip,audio/L0312/【牛角胡】空弦音 自然衰减 力度弱 推弓 第二遍.wav,3,bowed_string,23.311337868
+CTIS,CTIS/data/audio.zip,audio/L0161/【滇胡】 空弦音 力度弱 内外弦 5 2弦 第二遍.wav,3,bowed_string,9.375000000
+CTIS,CTIS/data/audio.zip,audio/L0155/【伬胡】演奏技法 颤弓 第二遍.wav,3,bowed_string,5.028083333
+CTIS,CTIS/data/audio.zip,audio/L0162/【襄阳专用胡琴】 音阶 力度中强 6 3弦 第一遍.wav,3,bowed_string,26.368583333
+CTIS,CTIS/data/audio.zip,audio/L0074/【壮剧土胡】特有演奏技法 变指滑音 上滑、下滑 第一遍.wav,3,bowed_string,2.675510204
+CTIS,CTIS/data/audio.zip,audio/L0139/【坠胡】演奏技法 打音 第二遍.wav,3,bowed_string,3.496235828
+CTIS,CTIS/data/audio.zip,audio/L0134/【陇剧陇胡（改良）D调】演奏技法 打音 第一遍.wav,3,bowed_string,3.209841270
+CTIS,CTIS/data/audio.zip,audio/L0153/【云南花灯 丝弦】演奏技法 打音 连打 第一遍.wav,3,bowed_string,3.306416667
+CTIS,CTIS/data/audio.zip,audio/L0122/【壳仔弦】音阶 慢速 力度强 第一遍.wav,3,bowed_string,26.245941043
+CTIS,CTIS/data/audio.zip,audio/L0076/【壮剧土胡】音阶 慢速 力度强 第一遍.wav,3,bowed_string,30.682403628
+CTIS,CTIS/data/audio.zip,audio/L0307/【芦笙】演奏技巧 慢花舌 第一遍.wav,3,bowed_string,25.704671202
+CTIS,CTIS/data/audio.zip,audio/L0139/【坠胡】音阶 自然衰减 力度中强 25弦 第二遍.wav,3,bowed_string,93.000000000
+CTIS,CTIS/data/audio.zip,audio/L0168/【花胡】 演奏技法 颤弓 第一遍.wav,3,bowed_string,3.429354167
+CTIS,CTIS/data/audio.zip,audio/L0084/【奚琴（传统）】空弦音 自然衰减 力度中强 拉推 第二遍.wav,3,bowed_string,16.471655329
+CTIS,CTIS/data/audio.zip,audio/L0160/【丝弦】演奏技法 华彩 第一遍.wav,3,bowed_string,31.471145833
+CTIS,CTIS/data/audio.zip,audio/L0045/【扬剧主胡】演奏技法 打音 第一遍.wav,3,bowed_string,2.000000000
+CTIS,CTIS/data/audio.zip,audio/L0121/【六角弦】演奏技法 颤弓 第一遍.wav,3,bowed_string,3.765034014
+CTIS,CTIS/data/audio.zip,audio/L0167/【黔胡】 音阶 慢速 力度弱 5 2 弦 第一遍.wav,3,bowed_string,49.946750000
+CTIS,CTIS/data/audio.zip,audio/L0285/【二弦】轻六音阶 力度中强 速度慢 第一遍.wav,3,bowed_string,41.615986395
+CTIS,CTIS/data/audio.zip,audio/L0156/【工胡】演奏技法 打音 第二遍.wav,3,bowed_string,4.567958333
+CTIS,CTIS/data/audio.zip,audio/L0157/【大胡】空弦音 力度弱 内外弦 第二遍.wav,3,bowed_string,8.504166667
+CTIS,CTIS/data/audio.zip,audio/L0167/【黔胡】 音阶 力度中强 1 5 弦 第一遍.wav,3,bowed_string,52.790708333
+CTIS,CTIS/data/audio.zip,audio/L0156/【工胡】音阶 慢速 力度中强 6 3弦 第二遍.wav,3,bowed_string,22.742541667
+CTIS,CTIS/data/audio.zip,audio/L0122/【壳仔弦】演奏技法 华彩 第二遍.wav,3,bowed_string,39.821519274
+CTIS,CTIS/data/audio.zip,audio/L0047/【 扬剧主胡（小西皮）】空弦音 筒音 自然衰减 力度弱 外弦 推 第二遍.wav,3,bowed_string,4.756371882
+CTIS,CTIS/data/audio.zip,audio/L0239/【高音板胡】演奏技法 垫指滑音 第一遍.wav,3,bowed_string,8.861292517
+CTIS,CTIS/data/audio.zip,audio/L0077/【晋剧二股弦】演奏技法 滑音 第一遍.wav,3,bowed_string,2.123265306
+CTIS,CTIS/data/audio.zip,audio/L0139/【坠胡】特有演奏技法 打弦 第一遍.wav,3,bowed_string,14.988344671
+CTIS,CTIS/data/audio.zip,audio/L0053/【广西彩调主胡】空弦音 自然衰减 力度弱 外弦 推 第一遍.wav,3,bowed_string,6.324353741
+CTIS,CTIS/data/audio.zip,audio/L0046/【扬剧主胡 F调】演奏技法 长音 外弦 推 第二遍.wav,3,bowed_string,3.834195011
+CTIS,CTIS/data/audio.zip,audio/L0122/【壳仔弦】演奏技法 连音 外弦 第一遍.wav,3,bowed_string,3.098321995
+CTIS,CTIS/data/audio.zip,audio/L0166/【高腔赣胡 第2代】 演奏技法 长音 内外弦 第一遍.wav,3,bowed_string,9.857666667
+CTIS,CTIS/data/audio.zip,audio/L0149/【绍剧板胡】 音阶 慢速 力度弱 1 5弦 第二遍.wav,3,bowed_string,48.131145833
+CTIS,CTIS/data/audio.zip,audio/L0047/【 扬剧主胡（小西皮）】音阶 中速 力度强 第一遍.wav,3,bowed_string,22.019727891
+CTIS,CTIS/data/audio.zip,audio/L0165/【高腔赣胡】 演奏技法 滑音 上滑 下滑 第二遍.wav,3,bowed_string,7.714708333
+CTIS,CTIS/data/audio.zip,audio/L0163/【雷胡】 演奏技法 长音 内外弦 第二遍.wav,3,bowed_string,17.986250000
+CTIS,CTIS/data/audio.zip,audio/L0168/【花胡】 音阶 力度中强 5 2 弦 第一遍.wav,3,bowed_string,45.057562500
+CTIS,CTIS/data/audio.zip,audio/L0307/【芦笙】演奏技巧 单吐 第二遍.wav,3,bowed_string,35.222766440
+CTIS,CTIS/data/audio.zip,audio/L0307/【芦笙】演奏技巧 慢花舌 第二遍.wav,3,bowed_string,26.893990930
+CTIS,CTIS/data/audio.zip,audio/L0166/【高腔赣胡 第2代】 音阶 慢速 力度强 1 5 弦 第二遍.wav,3,bowed_string,18.572416667
+CTIS,CTIS/data/audio.zip,audio/L0134/【陇剧陇胡（改良）D调】空弦音 力度中强 内外弦 第一遍.wav,3,bowed_string,7.338412698
+CTIS,CTIS/data/audio.zip,audio/L0121/【六角弦】空弦音 力度中强 内外弦 第二遍.wav,3,bowed_string,6.222517007
+CTIS,CTIS/data/audio.zip,audio/L0152/【滇葫（小二胡）】 演奏技法 长音 内外弦 第二遍.wav,3,bowed_string,22.222229167
+CTIS,CTIS/data/audio.zip,audio/L0266/【二胡】分弓 有音头 音阶 力度弱 第一遍.wav,3,bowed_string,76.255011338
+CTIS,CTIS/data/audio.zip,audio/L0162/【襄阳专用胡琴】 空弦音 力度弱 内外弦 6 3弦 第一遍.wav,3,bowed_string,9.112083333
+CTIS,CTIS/data/audio.zip,audio/L0134/【陇剧陇胡（改良）D调】音阶 慢速 力度中强 第一遍.wav,3,bowed_string,21.730544218
+CTIS,CTIS/data/audio.zip,audio/L0239/【高音板胡】音阶 速度慢 力度中强 第一遍.wav,3,bowed_string,21.912108844
+CTIS,CTIS/data/audio.zip,audio/L0239/【高音板胡】演奏技法 上滑音 第一遍.wav,3,bowed_string,7.511723356
+CTIS,CTIS/data/audio.zip,audio/L0266/【二胡】演奏技法 滚揉 中等力度 第一遍.wav,3,bowed_string,46.401791383
+CTIS,CTIS/data/audio.zip,audio/L0077/【晋剧二股弦】空弦音 自然衰减 力度弱 内弦 拉 第二遍.wav,3,bowed_string,5.351337868
+CTIS,CTIS/data/audio.zip,audio/L0266/【二胡】演奏技法 左手勾弦 右手拉奏 中等力度 第一遍.wav,3,bowed_string,1.399591837
+CTIS,CTIS/data/audio.zip,audio/L0073/【盖板（传统）】演奏技法 打音 第一遍.wav,3,bowed_string,3.555895692
+CTIS,CTIS/data/audio.zip,audio/L0086/【中音奚琴（改良）】音阶 中速 力度强 第一遍.wav,3,bowed_string,21.972789116
+CTIS,CTIS/data/audio.zip,audio/L0047/【 扬剧主胡（小西皮）】空弦音 筒音 自然衰减 力度强 内弦 拉 第二遍.wav,3,bowed_string,4.075941043
+CTIS,CTIS/data/audio.zip,audio/L0135/【齐琴】演奏技法 长音 内外弦 第二遍.wav,3,bowed_string,14.872380952
+CTIS,CTIS/data/audio.zip,audio/L0170/【二股弦】演奏技法 连音 第一遍.wav,3,bowed_string,4.953354167
+CTIS,CTIS/data/audio.zip,audio/L0164/【赣胡】 特有演奏技法 揉弦 第二遍.wav,3,bowed_string,3.214458333
+CTIS,CTIS/data/audio.zip,audio/L0170/【二股弦】演奏技法 滑音 上滑 下滑 第二遍.wav,3,bowed_string,4.953354167
+CTIS,CTIS/data/audio.zip,audio/L0166/【高腔赣胡 第2代】 音阶 力度中强 1 5 弦 第一遍.wav,3,bowed_string,31.001625000
+CTIS,CTIS/data/audio.zip,audio/L0072/【盖板（新）D调】演奏技法 打音 第二遍.wav,3,bowed_string,3.965986395
+CTIS,CTIS/data/audio.zip,audio/L0155/【伬胡】空弦音 力度弱 内外弦 第一遍.wav,3,bowed_string,8.492604167
+CTIS,CTIS/data/audio.zip,audio/L0075/【晋剧晋胡】空弦音 自然衰减 力度弱 拉推 第二遍.wav,3,bowed_string,9.922947846
+CTIS,CTIS/data/audio.zip,audio/L0292/【六角高胡】音阶 速度慢 力度强 第一遍.wav,3,bowed_string,27.473541667
+CTIS,CTIS/data/audio.zip,audio/L0115/【莱芜梆子-梆胡】音阶 中速 力度强 第一遍.wav,3,bowed_string,25.697596372
+CTIS,CTIS/data/audio.zip,audio/L0239/【高音板胡】音阶 速度慢 力度弱 第一遍.wav,3,bowed_string,21.631814059
+CTIS,CTIS/data/audio.zip,audio/L0288/【椰胡】音阶 慢速 力度强 第一遍.wav,3,bowed_string,16.852166667
+CTIS,CTIS/data/audio.zip,audio/L0045/【扬剧主胡】演奏技法 滑音 第二遍.wav,3,bowed_string,4.709115646
+CTIS,CTIS/data/audio.zip,audio/L0161/【滇胡】 演奏技法 颤弓 第二遍.wav,3,bowed_string,3.548333333
+CTIS,CTIS/data/audio.zip,audio/L0153/【云南花灯 丝弦】音阶 慢速 力度中强 1 5弦 第一遍.wav,3,bowed_string,27.509375000
+CTIS,CTIS/data/audio.zip,audio/L0152/【滇葫（小二胡）】 空弦音 力度中强 内外弦 第一遍.wav,3,bowed_string,6.076395833
+CTIS,CTIS/data/audio.zip,audio/L0266/【二胡】双弦抖弓 音阶 中等力度 第一遍.wav,3,bowed_string,41.107619048
+CTIS,CTIS/data/audio.zip,audio/L0085/【奚琴（改良）】演奏技法 滑音 第一遍.wav,3,bowed_string,27.385328798
+CTIS,CTIS/data/audio.zip,audio/L0163/【雷胡】 演奏技法 华彩 第二遍.wav,3,bowed_string,29.741979167
+CTIS,CTIS/data/audio.zip,audio/L0297/【中胡】音阶 慢速 力度中弱 第一遍.wav,3,bowed_string,34.054937500
+CTIS,CTIS/data/audio.zip,audio/L0266/【二胡】演奏技法 弓杆击琴筒 第一遍.wav,3,bowed_string,2.274988662
+CTIS,CTIS/data/audio.zip,audio/L0045/【扬剧主胡】音阶 慢速 力度强 第二遍.wav,3,bowed_string,40.440612245
+CTIS,CTIS/data/audio.zip,audio/L0084/【奚琴（传统）】演奏技法 颤音 第一遍.wav,3,bowed_string,14.602585034
+CTIS,CTIS/data/audio.zip,audio/L0148/【板胡】 筒音 力度中强 内外弦 第二遍.wav,3,bowed_string,6.982312500
+CTIS,CTIS/data/audio.zip,audio/L0154/【仕胡】演奏技法 华彩 第一遍.wav,3,bowed_string,46.749020833
+CTIS,CTIS/data/audio.zip,audio/L0256/【雷琴】空弦音 力度强 第二遍.wav,3,bowed_string,6.513854875
+CTIS,CTIS/data/audio.zip,audio/L0163/【雷胡】 特有演奏技法 压弦 按揉 第二遍.wav,3,bowed_string,4.567104167
+CTIS,CTIS/data/audio.zip,audio/L0240/【中音板胡】 空弦音 力度强 第二遍.wav,3,bowed_string,5.397875000
+CTIS,CTIS/data/audio.zip,audio/L0266/【二胡】拉弓技法 空弦音 力度弱 第二遍.wav,3,bowed_string,12.431133787
+CTIS,CTIS/data/audio.zip,audio/L0075/【晋剧晋胡】音阶 慢速 力度弱 第二遍.wav,3,bowed_string,66.904875283
+CTIS,CTIS/data/audio.zip,audio/L0076/【壮剧土胡】音阶 自然衰减 力度中强 第二遍.wav,3,bowed_string,39.414149660
+CTIS,CTIS/data/audio.zip,audio/L0045/【扬剧主胡】特有演奏技法 空弦柔音 第二遍.wav,3,bowed_string,4.213424036
+CTIS,CTIS/data/audio.zip,audio/L0266/【二胡】演奏技法 大上滑音 中等力度 第一遍.wav,3,bowed_string,4.069523810
+CTIS,CTIS/data/audio.zip,audio/L0151/【四弦】 空弦音 力度强 内外弦 第二遍.wav,3,bowed_string,5.658437500
+CTIS,CTIS/data/audio.zip,audio/L0266/【二胡】分弓 无音头 音阶 力度强 第一遍.wav,3,bowed_string,49.385396825
+CTIS,CTIS/data/audio.zip,audio/L0053/【广西彩调主胡】空弦音 自然衰减 力度中强 内弦 拉 第二遍.wav,3,bowed_string,3.351020408
+CTIS,CTIS/data/audio.zip,audio/L0297/【中胡】音阶 中速 力度强 第二遍.wav,3,bowed_string,20.081291667
+CTIS,CTIS/data/audio.zip,audio/L0153/【云南花灯 丝弦】音阶 慢速 力度强 1 5弦 第一遍.wav,3,bowed_string,28.655604167
+CTIS,CTIS/data/audio.zip,audio/L0121/【六角弦】空弦音 力度中强 内外弦 第一遍.wav,3,bowed_string,6.027165533
+CTIS,CTIS/data/audio.zip,audio/L0168/【花胡】 空弦音 筒音 力度中强 内外弦 第一遍.wav,3,bowed_string,4.878875000
+CTIS,CTIS/data/audio.zip,audio/L0160/【丝弦】空弦音 力度强 6 3弦 内外弦 第一遍.wav,3,bowed_string,8.418770833
+CTIS,CTIS/data/audio.zip,audio/L0312/【牛角胡】音阶 慢速 力度中强 第一遍.wav,3,bowed_string,56.929841270
+CTIS,CTIS/data/audio.zip,audio/L0239/【高音板胡】空弦音 力度中强 第一遍.wav,3,bowed_string,6.495170068
+CTIS,CTIS/data/audio.zip,audio/L0149/【绍剧板胡】 音阶 慢速 力度中强 5 2弦 第二遍.wav,3,bowed_string,28.306583333
+CTIS,CTIS/data/audio.zip,audio/L0047/【 扬剧主胡（小西皮）】音阶 自然衰减 力度中强 第二遍.wav,3,bowed_string,43.486077098
+CTIS,CTIS/data/audio.zip,audio/L0073/【盖板（传统）】空弦音 筒音 自然衰减 力度弱 内弦 拉 第一遍.wav,3,bowed_string,5.052267574
+CTIS,CTIS/data/audio.zip,audio/L0163/【雷胡】 音阶 慢速 力度中强 6 3 弦 第二遍.wav,3,bowed_string,72.062541667
+CTIS,CTIS/data/audio.zip,audio/L0044/【锡剧主胡】特有演奏技法 空弦颤音 第二遍.wav,3,bowed_string,5.064421769
+CTIS,CTIS/data/audio.zip,audio/L0160/【丝弦】演奏技法 揉弦 第一遍.wav,3,bowed_string,4.628125000
+CTIS,CTIS/data/audio.zip,audio/L0046/【扬剧主胡 F调】空弦音 自然衰减 力度中强 外弦 推 第二遍.wav,3,bowed_string,2.967823129
+CTIS,CTIS/data/audio.zip,audio/L0148/【板胡】 筒音 力度弱 内外弦 第一遍.wav,3,bowed_string,7.426416667
+CTIS,CTIS/data/audio.zip,audio/L0153/【云南花灯 丝弦】演奏技法 打音 单打 第二遍.wav,3,bowed_string,2.326750000
+CTIS,CTIS/data/audio.zip,audio/L0134/【陇剧陇胡（改良）D调】演奏技法 连音 第一遍.wav,3,bowed_string,7.221179138
+CTIS,CTIS/data/audio.zip,audio/L0134/【陇剧陇胡（改良）D调】演奏技法 颤弓 第一遍.wav,3,bowed_string,3.140770975
+CTIS,CTIS/data/audio.zip,audio/L0135/【齐琴】音阶 力度中强  第一遍.wav,3,bowed_string,47.603015873
+CTIS,CTIS/data/audio.zip,audio/L0053/【广西彩调主胡】特有演奏技法 揉弦 第二遍.wav,3,bowed_string,4.895238095
+CTIS,CTIS/data/audio.zip,audio/L0045/【扬剧主胡】演奏技法 消音滑 第一遍.wav,3,bowed_string,3.166961451
+CTIS,CTIS/data/audio.zip,audio/L0307/【芦笙】音阶 速度慢 力度中强 第一遍.wav,3,bowed_string,42.475147392
+CTIS,CTIS/data/audio.zip,audio/L0160/【丝弦】音阶 慢速 力度强 6 3弦 第一遍.wav,3,bowed_string,22.567541667
+CTIS,CTIS/data/audio.zip,audio/L0240/【中音板胡】 演奏技法 垫弓 第二遍.wav,3,bowed_string,13.399416667
+CTIS,CTIS/data/audio.zip,audio/L0161/【滇胡】 演奏技法 揉弦 第一遍.wav,3,bowed_string,3.507687500
+CTIS,CTIS/data/audio.zip,audio/L0047/【 扬剧主胡（小西皮）】音阶 慢速 力度弱 第二遍.wav,3,bowed_string,40.883582766
+CTIS,CTIS/data/audio.zip,audio/L0239/【高音板胡】空弦音 力度强 第二遍.wav,3,bowed_string,5.148843537
+CTIS,CTIS/data/audio.zip,audio/L0312/【牛角胡】演奏技巧 打音 第一遍.wav,3,bowed_string,13.939818594
+CTIS,CTIS/data/audio.zip,audio/L0163/【雷胡】 演奏技法 华彩 第一遍.wav,3,bowed_string,27.273270833
+CTIS,CTIS/data/audio.zip,audio/L0086/【中音奚琴（改良）】音阶 慢速 力度中强 第一遍.wav,3,bowed_string,39.987120181
+CTIS,CTIS/data/audio.zip,audio/L0076/【壮剧土胡】音阶 中速 力度强 第二遍.wav,3,bowed_string,18.000000000
+CTIS,CTIS/data/audio.zip,audio/L0163/【雷胡】 特有演奏技法 鸟啼 第二遍.wav,3,bowed_string,11.356041667
+CTIS,CTIS/data/audio.zip,audio/L0077/【晋剧二股弦】空弦音 自然衰减 力度强 外弦 推 第二遍.wav,3,bowed_string,3.904875283
+CTIS,CTIS/data/audio.zip,audio/L0153/【云南花灯 丝弦】音阶 慢速 力度弱 1 5弦 第二遍.wav,3,bowed_string,33.945854167
+CTIS,CTIS/data/audio.zip,audio/L0141/【越胡】特有演奏技法 滑揉 第二遍.wav,3,bowed_string,5.167120181
+CTIS,CTIS/data/audio.zip,audio/L0135/【齐琴】音阶 力度中强 15弦 第一遍.wav,3,bowed_string,51.575873016
+CTIS,CTIS/data/audio.zip,audio/L0297/【中胡】演奏技巧 左手拨弦 第二遍.wav,3,bowed_string,3.752687500
+CTIS,CTIS/data/audio.zip,audio/L0312/【牛角胡】音阶 慢速 力度弱 第二遍.wav,3,bowed_string,112.009160998
+CTIS,CTIS/data/audio.zip,audio/L0135/【齐琴】演奏技法 连音 第一遍.wav,3,bowed_string,3.700702948
+CTIS,CTIS/data/audio.zip,audio/L0307/【芦笙】演奏技巧 双吐 第一遍.wav,3,bowed_string,49.359070295
+CTIS,CTIS/data/audio.zip,audio/L0080/【吕剧坠琴】音阶 自然衰减 力度中强 第一遍.wav,3,bowed_string,74.153129252
+CTIS,CTIS/data/audio.zip,audio/L0122/【壳仔弦】音阶 慢速 力度中强 第二遍.wav,3,bowed_string,22.308594104
+CTIS,CTIS/data/audio.zip,audio/L0169/【花胡】 音阶 慢速 力度强 1 5 弦 第一遍.wav,3,bowed_string,39.085500000
+CTIS,CTIS/data/audio.zip,audio/L0080/【吕剧坠琴】演奏技法 连音 第二遍.wav,3,bowed_string,6.563537415
+CTIS,CTIS/data/audio.zip,audio/L0151/【四弦】 空弦音 力度中强 内外弦 第一遍.wav,3,bowed_string,6.012104167
+CTIS,CTIS/data/audio.zip,audio/L0157/【大胡】音阶 自然衰减 力度中强 5 2弦 第二遍.wav,3,bowed_string,16.835062500
+CTIS,CTIS/data/audio.zip,audio/L0074/【壮剧土胡】空弦音 筒音 自然衰减 力度强 内弦 拉 第二遍.wav,3,bowed_string,2.736031746
+CTIS,CTIS/data/audio.zip,audio/L0077/【晋剧二股弦】空弦音 自然衰减 力度弱 外弦 推 第一遍.wav,3,bowed_string,4.438344671
+CTIS,CTIS/data/audio.zip,audio/L0072/【盖板（新）D调】演奏技法 长音 外弦 推 第一遍.wav,3,bowed_string,8.872494331
+CTIS,CTIS/data/audio.zip,audio/L0297/【中胡】音阶 慢速 力度弱 第一遍.wav,3,bowed_string,60.730437500
+CTIS,CTIS/data/audio.zip,audio/L0053/【广西彩调主胡】空弦音 自然衰减 力度中强 外弦 推 第二遍.wav,3,bowed_string,2.925056689
+CTIS,CTIS/data/audio.zip,audio/L0266/【二胡】演奏技法 垫指滑音 中等力度 第一遍.wav,3,bowed_string,3.810294785
+CTIS,CTIS/data/audio.zip,audio/L0055/【牛腿琴】演奏技法 打音 第二遍.wav,3,bowed_string,5.195986395
+CTIS,CTIS/data/audio.zip,audio/L0073/【盖板（传统）】音阶 自然衰减 力度中强 第二遍.wav,3,bowed_string,16.408594104
+CTIS,CTIS/data/audio.zip,audio/L0266/【二胡】演奏技法 下颤音 中等力度 第二遍.wav,3,bowed_string,20.766349206
+CTIS,CTIS/data/audio.zip,audio/L0266/【二胡】演奏技法 颤弓 音阶 力度弱 第一遍.wav,3,bowed_string,69.467913832
+CTIS,CTIS/data/audio.zip,audio/L0169/【花胡】 空弦音 筒音 力度弱 内外弦 第二遍.wav,3,bowed_string,8.484979167
+CTIS,CTIS/data/audio.zip,audio/L0139/【坠胡】演奏技法 华彩 第一遍.wav,3,bowed_string,18.710385488
+CTIS,CTIS/data/audio.zip,audio/L0162/【襄阳专用胡琴】 演奏技法 颤弓 第一遍.wav,3,bowed_string,3.442250000
+CTIS,CTIS/data/audio.zip,audio/L0163/【雷胡】 空弦音 力度中强 内外弦 第二遍.wav,3,bowed_string,6.602625000
+CTIS,CTIS/data/audio.zip,audio/L0169/【花胡】 音阶 慢速 力度弱 1 5 弦 第一遍.wav,3,bowed_string,61.086125000
+CTIS,CTIS/data/audio.zip,audio/L0149/【绍剧板胡】 音阶 慢速 力度强 1 5弦 第一遍.wav,3,bowed_string,25.576395833
+CTIS,CTIS/data/audio.zip,audio/L0044/【锡剧主胡】音阶 力度中强 自然衰减 第二遍.wav,3,bowed_string,40.511609977
+CTIS,CTIS/data/audio.zip,audio/L0085/【奚琴（改良）】空弦音 自然衰减 力度强 拉推 第一遍.wav,3,bowed_string,35.099863946
+CTIS,CTIS/data/audio.zip,audio/L0152/【滇葫（小二胡）】 演奏技法 打音 单打 第二遍.wav,3,bowed_string,1.388895833
+CTIS,CTIS/data/audio.zip,audio/L0084/【奚琴（传统）】空弦音 自然衰减 力度强 拉推 第一遍.wav,3,bowed_string,16.279569161
+CTIS,CTIS/data/audio.zip,audio/L0165/【高腔赣胡】 演奏技法 打音 单打 第二遍.wav,3,bowed_string,2.365854167
+CTIS,CTIS/data/audio.zip,audio/L0151/【四弦】 音阶 中速 力度强 5 2弦 第一遍.wav,3,bowed_string,14.266666667
+CTIS,CTIS/data/audio.zip,audio/L0044/【锡剧主胡】音阶 力度中强 自然衰减 第一遍.wav,3,bowed_string,52.280748299
+CTIS,CTIS/data/audio.zip,audio/L0044/【锡剧主胡】空弦音 力度弱 自然衰减 内弦 拉 第一遍.wav,3,bowed_string,6.083764172
+CTIS,CTIS/data/audio.zip,audio/L0135/【齐琴】音阶 慢速 力度弱 52弦 第二遍.wav,3,bowed_string,52.213083900
+CTIS,CTIS/data/audio.zip,audio/L0153/【云南花灯 丝弦】演奏技法 华彩 第二遍.wav,3,bowed_string,14.511500000
+CTIS,CTIS/data/audio.zip,audio/L0151/【四弦】 音阶 慢速 力度中强 5 2弦 第二遍.wav,3,bowed_string,24.866666667
+CTIS,CTIS/data/audio.zip,audio/L0297/【中胡】空弦音 力度弱 第一遍.wav,3,bowed_string,5.400041667
+CTIS,CTIS/data/audio.zip,audio/L0044/【锡剧主胡】音阶 中速 力度强 第一遍.wav,3,bowed_string,23.049909297
+CTIS,CTIS/data/audio.zip,audio/L0149/【绍剧板胡】 演奏技法 连音 第一遍.wav,3,bowed_string,5.169916667
+CTIS,CTIS/data/audio.zip,audio/L0161/【滇胡】 空弦音 力度中强 内外弦 5 2弦 第一遍.wav,3,bowed_string,8.625000000
+CTIS,CTIS/data/audio.zip,audio/L0149/【绍剧板胡】 演奏技法 华彩 第一遍.wav,3,bowed_string,18.757041667
+CTIS,CTIS/data/audio.zip,audio/L0266/【二胡】演奏技法 双弦抖弓 音阶 中等力度 第二遍.wav,3,bowed_string,36.289319728
+CTIS,CTIS/data/audio.zip,audio/L0157/【大胡】音阶 慢速 力度中强 5 2弦 第一遍.wav,3,bowed_string,17.967604167
+CTIS,CTIS/data/audio.zip,audio/L0266/【二胡】演奏技法 连顿弓 音阶 中等力度 第一遍.wav,3,bowed_string,8.921723356
+CTIS,CTIS/data/audio.zip,audio/L0161/【滇胡】 音阶 慢速 力度强 5 2弦 第二遍.wav,3,bowed_string,25.871312500
+CTIS,CTIS/data/audio.zip,audio/L0314/【葫芦琴】空弦音 自然衰减 力度弱 推弓 第二遍.wav,3,bowed_string,19.851156463
+CTIS,CTIS/data/audio.zip,audio/L0157/【大胡】音阶 慢速 力度弱 5 2弦 第二遍.wav,3,bowed_string,17.783937500
+CTIS,CTIS/data/audio.zip,audio/L0046/【扬剧主胡 F调】空弦音 自然衰减 力度种强 内弦 拉 第一遍.wav,3,bowed_string,3.246031746
+CTIS,CTIS/data/audio.zip,audio/L0133/【陇剧陇胡（传统）】音阶 慢速 力度强 52弦 第一遍.wav,3,bowed_string,20.517188209
+CTIS,CTIS/data/audio.zip,audio/L0141/【越胡】演奏技法 颤弓 第一遍.wav,3,bowed_string,4.263219955
+CTIS,CTIS/data/audio.zip,audio/L0150/【宛梆子 梆胡】 演奏技法 打音 第二遍.wav,3,bowed_string,2.110416667
+CTIS,CTIS/data/audio.zip,audio/L0076/【壮剧土胡】演奏技法 颤音 第一遍.wav,3,bowed_string,3.043106576
+CTIS,CTIS/data/audio.zip,audio/L0044/【锡剧主胡】特有演奏技法 空弦颤音 第一遍.wav,3,bowed_string,5.123900227
+CTIS,CTIS/data/audio.zip,audio/L0072/【盖板（新）D调】空弦音 筒音 自然衰减 力度中强 内弦 拉 第二遍.wav,3,bowed_string,2.833424036
+CTIS,CTIS/data/audio.zip,audio/L0164/【赣胡】 演奏技法 打音 连打 第一遍.wav,3,bowed_string,1.845354167
+CTIS,CTIS/data/audio.zip,audio/L0047/【 扬剧主胡（小西皮）】演奏技法 滑音 第二遍.wav,3,bowed_string,3.448185941
+CTIS,CTIS/data/audio.zip,audio/L0077/【晋剧二股弦】演奏技法 打音 第一遍.wav,3,bowed_string,2.147233560
+CTIS,CTIS/data/audio.zip,audio/L0158/【低音伬胡】音阶 力度中强 5 2弦 第二遍.wav,3,bowed_string,13.774145833
+CTIS,CTIS/data/audio.zip,audio/L0239/【高音板胡】演奏技法 抛弓 第一遍.wav,3,bowed_string,4.173741497
+CTIS,CTIS/data/audio.zip,audio/L0056/【壮剧马骨胡 D调】音阶 中速 力度强 第二遍.wav,3,bowed_string,25.192448980
+CTIS,CTIS/data/audio.zip,audio/L0135/【齐琴】音阶 慢速 力度强 15弦 第二遍.wav,3,bowed_string,41.364943311
+CTIS,CTIS/data/audio.zip,audio/L0044/【锡剧主胡】演奏技法 颤音 第二遍.wav,3,bowed_string,3.687346939
+CTIS,CTIS/data/audio.zip,audio/L0167/【黔胡】 空弦音 力度中强 内外弦 第二遍.wav,3,bowed_string,9.598312500
+CTIS,CTIS/data/audio.zip,audio/L0046/【扬剧主胡 F调】演奏技法 华彩 第二遍.wav,3,bowed_string,23.036145125
+CTIS,CTIS/data/audio.zip,audio/L0162/【襄阳专用胡琴】 演奏技法 打音 单打 第一遍.wav,3,bowed_string,2.741062500
+CTIS,CTIS/data/audio.zip,audio/L0170/【二股弦】演奏技法 打音 单打 第一遍.wav,3,bowed_string,1.270104167
+CTIS,CTIS/data/audio.zip,audio/L0266/【二胡】演奏技法 飞弓 第二遍.wav,3,bowed_string,3.400884354
+CTIS,CTIS/data/audio.zip,audio/L0047/【 扬剧主胡（小西皮）】空弦音 筒音 自然衰减 力度弱 内弦 拉 第一遍.wav,3,bowed_string,6.821337868
+CTIS,CTIS/data/audio.zip,audio/L0239/【高音板胡】空弦音 力度弱 第二遍.wav,3,bowed_string,7.885396825
+CTIS,CTIS/data/audio.zip,audio/L0239/【高音板胡】演奏技法 垫指滑音 第二遍.wav,3,bowed_string,8.395079365
+CTIS,CTIS/data/audio.zip,audio/L0045/【扬剧主胡】演奏技法 连音 第二遍.wav,3,bowed_string,4.361451247
+CTIS,CTIS/data/audio.zip,audio/L0151/【四弦】 演奏技法 颤弓 第二遍.wav,3,bowed_string,3.666666667
+CTIS,CTIS/data/audio.zip,audio/L0046/【扬剧主胡 F调】空弦音 自然衰减 力度强 内弦 拉 第二遍.wav,3,bowed_string,3.320725624
+CTIS,CTIS/data/audio.zip,audio/L0288/【椰胡】音阶 中速 力度强 第二遍.wav,3,bowed_string,8.067062500
+CTIS,CTIS/data/audio.zip,audio/L0307/【芦笙】演奏技巧 腹颤音 第一遍.wav,3,bowed_string,33.104353741
+CTIS,CTIS/data/audio.zip,audio/L0152/【滇葫（小二胡）】 特有演奏技法 演唱前过门 第一遍.wav,3,bowed_string,4.166687500
+CTIS,CTIS/data/audio.zip,audio/L0256/【雷琴】音阶 力度中强 第二遍.wav,3,bowed_string,30.008480726
+CTIS,CTIS/data/audio.zip,audio/L0266/【二胡】演奏技法 后下回滑音 中等力度 第二遍.wav,3,bowed_string,18.262811791
+CTIS,CTIS/data/audio.zip,audio/L0074/【壮剧土胡】演奏技法 长音 第一遍.wav,3,bowed_string,18.487233560
+CTIS,CTIS/data/audio.zip,audio/L0307/【芦笙】演奏技巧 花舌 第二遍.wav,3,bowed_string,24.395941043
+CTIS,CTIS/data/audio.zip,audio/L0152/【滇葫（小二胡）】 音阶 中速 力度强 1 5弦 第二遍.wav,3,bowed_string,17.515437500
+CTIS,CTIS/data/audio.zip,audio/L0164/【赣胡】 音阶 慢速 力度强 6 3 弦 第二遍.wav,3,bowed_string,63.198750000
+CTIS,CTIS/data/audio.zip,audio/L0056/【壮剧马骨胡 D调】音阶 慢速 力度强 第一遍.wav,3,bowed_string,33.000000000
+CTIS,CTIS/data/audio.zip,audio/L0073/【盖板（传统）】空弦音 筒音 自然衰减 力度中强 内弦 拉 第一遍.wav,3,bowed_string,2.815283447
+CTIS,CTIS/data/audio.zip,audio/L0122/【壳仔弦】音阶 中速 力度强 第二遍.wav,3,bowed_string,19.889795918
+CTIS,CTIS/data/audio.zip,audio/L0168/【花胡】 音阶 慢速 力度强 1 5 弦 第一遍.wav,3,bowed_string,43.415791667
+CTIS,CTIS/data/audio.zip,audio/L0165/【高腔赣胡】 音阶 中速 力度强 5 2 弦 第一遍.wav,3,bowed_string,16.149416667
+CTIS,CTIS/data/audio.zip,audio/L0073/【盖板（传统）】特有演奏技法 滑音、打音、装饰音 第一遍.wav,3,bowed_string,9.687709751
+CTIS,CTIS/data/audio.zip,audio/L0141/【越胡】空弦音 力度弱 内外弦 第一遍.wav,3,bowed_string,12.000000000
+CTIS,CTIS/data/audio.zip,audio/L0149/【绍剧板胡】 演奏技法 颤弓 第二遍.wav,3,bowed_string,4.694895833
+CTIS,CTIS/data/audio.zip,audio/L0165/【高腔赣胡】 音阶 慢速 力度强 5 2 弦 第一遍.wav,3,bowed_string,26.744270833
+CTIS,CTIS/data/audio.zip,audio/L0160/【丝弦】特有演奏技法 呱呱音 第一遍.wav,3,bowed_string,4.628125000
+CTIS,CTIS/data/audio.zip,audio/L0165/【高腔赣胡】 演奏技法 打音 连打 第二遍.wav,3,bowed_string,4.731687500
+CTIS,CTIS/data/audio.zip,audio/L0292/【六角高胡】空弦音 自然衰减 力度强 第二遍.wav,3,bowed_string,2.296000000
+CTIS,CTIS/data/audio.zip,audio/L0149/【绍剧板胡】 演奏技法 连音 第二遍.wav,3,bowed_string,4.858562500
+CTIS,CTIS/data/audio.zip,audio/L0170/【二股弦】演奏技法 连音 第二遍.wav,3,bowed_string,4.953354167
+CTIS,CTIS/data/audio.zip,audio/L0167/【黔胡】 特有演奏技法 揉弦 第二遍.wav,3,bowed_string,7.109875000
+CTIS,CTIS/data/audio.zip,audio/L0080/【吕剧坠琴】空弦音 自然衰减 力度中强 内弦 拉 第一遍.wav,3,bowed_string,4.166031746
+CTIS,CTIS/data/audio.zip,audio/L0162/【襄阳专用胡琴】 特有演奏技法 抖弓 第一遍.wav,3,bowed_string,2.521104167
+CTIS,CTIS/data/audio.zip,audio/L0307/【芦笙】演奏技巧 颤指 第二遍.wav,3,bowed_string,21.491995465
+CTIS,CTIS/data/audio.zip,audio/L0149/【绍剧板胡】 空弦音 力度中强 内外弦 第二遍.wav,3,bowed_string,6.007291667
+CTIS,CTIS/data/audio.zip,audio/L0167/【黔胡】 演奏技法 滑音 上滑 下滑 第二遍.wav,3,bowed_string,5.510145833
+CTIS,CTIS/data/audio.zip,audio/L0141/【越胡】空弦音 力度中强 内外弦 第二遍.wav,3,bowed_string,4.770566893
+CTIS,CTIS/data/audio.zip,audio/L0161/【滇胡】 空弦音 力度中强 内外弦 5 2弦 第二遍.wav,3,bowed_string,8.250000000
+CTIS,CTIS/data/audio.zip,audio/L0135/【齐琴】演奏技法 华彩 第二遍.wav,3,bowed_string,20.825056689
+CTIS,CTIS/data/audio.zip,audio/L0115/【莱芜梆子-梆胡】演奏技法 华彩 过门 第一遍.wav,3,bowed_string,29.031315193
+CTIS,CTIS/data/audio.zip,audio/L0155/【伬胡】音阶 力度中强 5 2弦 第二遍.wav,3,bowed_string,17.361666667
+CTIS,CTIS/data/audio.zip,audio/L0239/【高音板胡】演奏技法 上滑音 第二遍.wav,3,bowed_string,7.138911565
+CTIS,CTIS/data/audio.zip,audio/L0151/【四弦】 演奏技法 连音 第一遍.wav,3,bowed_string,3.600000000
+CTIS,CTIS/data/audio.zip,audio/L0045/【扬剧主胡】演奏技法 滑音 第一遍.wav,3,bowed_string,3.843378685
+CTIS,CTIS/data/audio.zip,audio/L0086/【中音奚琴（改良）】演奏技法 滑音 第一遍.wav,3,bowed_string,12.962721088
+CTIS,CTIS/data/audio.zip,audio/L0139/【坠胡】特有演奏技法 跳揉 第二遍.wav,3,bowed_string,5.795623583
+CTIS,CTIS/data/audio.zip,audio/L0053/【广西彩调主胡】特有演奏技法 变指加滑音 第二遍.wav,3,bowed_string,5.440657596
+CTIS,CTIS/data/audio.zip,audio/L0170/【二股弦】音阶 中速 力度强 6 3 弦 第一遍.wav,3,bowed_string,16.765166667
+CTIS,CTIS/data/audio.zip,audio/L0158/【低音伬胡】演奏技法 颤弓 第二遍.wav,3,bowed_string,3.428229167
+CTIS,CTIS/data/audio.zip,audio/L0166/【高腔赣胡 第2代】 演奏技法 打音 单打 第一遍.wav,3,bowed_string,2.214416667
+CTIS,CTIS/data/audio.zip,audio/L0313/【佤族独弦琴】空弦音 自然衰减 力度中强 拉弓 第一遍.wav,3,bowed_string,6.000000000
+CTIS,CTIS/data/audio.zip,audio/L0160/【丝弦】演奏技法 长音 内外弦 第二遍.wav,3,bowed_string,13.619875000
+CTIS,CTIS/data/audio.zip,audio/L0266/【二胡】演奏技法 颤弓 音阶 中等力度 第二遍.wav,3,bowed_string,61.301360544
+CTIS,CTIS/data/audio.zip,audio/L0074/【壮剧土胡】音阶 自然衰减 力度中强 第一遍.wav,3,bowed_string,54.946712018
+CTIS,CTIS/data/audio.zip,audio/L0266/【二胡】演奏技法 连弓 力度强 第一遍.wav,3,bowed_string,11.429047619
+CTIS,CTIS/data/audio.zip,audio/L0307/【芦笙】演奏技巧 呼舌 第一遍.wav,3,bowed_string,31.676870748
+CTIS,CTIS/data/audio.zip,audio/L0164/【赣胡】 音阶 慢速 力度弱 6 3 弦 第二遍.wav,3,bowed_string,76.159416667
+CTIS,CTIS/data/audio.zip,audio/L0151/【四弦】 演奏技法 长音 内外弦 第二遍.wav,3,bowed_string,11.533333333
+CTIS,CTIS/data/audio.zip,audio/L0157/【大胡】音阶 慢速 力度中强 5 2弦 第二遍.wav,3,bowed_string,18.487958333
+CTIS,CTIS/data/audio.zip,audio/L0164/【赣胡】 音阶 慢速 力度中强 6 3 弦 第二遍.wav,3,bowed_string,65.420562500
+CTIS,CTIS/data/audio.zip,audio/L0266/【二胡】演奏技法 连弓 力度强 第二遍.wav,3,bowed_string,11.393106576
+CTIS,CTIS/data/audio.zip,audio/L0167/【黔胡】 演奏技法 长音 内外弦 第二遍.wav,3,bowed_string,23.995770833
+CTIS,CTIS/data/audio.zip,audio/L0153/【云南花灯 丝弦】音阶 慢速 力度强 1 5弦 第二遍.wav,3,bowed_string,25.128750000
+CTIS,CTIS/data/audio.zip,audio/L0160/【丝弦】空弦音 力度中强 6 3弦 内外弦 第二遍.wav,3,bowed_string,8.639145833
+CTIS,CTIS/data/audio.zip,audio/L0148/【板胡】 音阶 力度中强 第一遍.wav,3,bowed_string,51.275437500
+CTIS,CTIS/data/audio.zip,audio/L0168/【花胡】 音阶 慢速 力度弱 1 5 弦 第一遍.wav,3,bowed_string,58.191750000
+CTIS,CTIS/data/audio.zip,audio/L0135/【齐琴】音阶 慢速 力度中强 52弦 第一遍.wav,3,bowed_string,30.654988662
+CTIS,CTIS/data/audio.zip,audio/L0149/【绍剧板胡】 演奏技法 打音 连打 第一遍.wav,3,bowed_string,2.677791667
+CTIS,CTIS/data/audio.zip,audio/L0288/【椰胡】音阶 慢速 力度中强 第一遍.wav,3,bowed_string,18.294812500
+CTIS,CTIS/data/audio.zip,audio/L0077/【晋剧二股弦】演奏技法 长音 第二遍.wav,3,bowed_string,8.784580499
+CTIS,CTIS/data/audio.zip,audio/L0134/【陇剧陇胡（改良）D调】特有演奏技法 分弓连打 第一遍.wav,3,bowed_string,6.003174603
+CTIS,CTIS/data/audio.zip,audio/L0136/【渔胡】空弦音 力度弱 内外弦 第一遍.wav,3,bowed_string,10.955034014
+CTIS,CTIS/data/audio.zip,audio/L0045/【扬剧主胡】演奏技法 揉弦 第一遍.wav,3,bowed_string,3.397596372
+CTIS,CTIS/data/audio.zip,audio/L0156/【工胡】音阶 慢速 力度弱 6 3弦 第二遍.wav,3,bowed_string,25.512458333
+CTIS,CTIS/data/audio.zip,audio/L0161/【滇胡】 音阶 慢速 力度弱 5 2弦 第二遍.wav,3,bowed_string,28.386583333
+CTIS,CTIS/data/audio.zip,audio/L0136/【渔胡】演奏技法 连音 第一遍.wav,3,bowed_string,2.684263039
+CTIS,CTIS/data/audio.zip,audio/L0288/【椰胡】音阶 慢速 力度弱 第一遍.wav,3,bowed_string,24.097187500
+CTIS,CTIS/data/audio.zip,audio/L0139/【坠胡】演奏技法 连音 第二遍.wav,3,bowed_string,4.591383220
+CTIS,CTIS/data/audio.zip,audio/L0134/【陇剧陇胡（改良）D调】演奏技法 滑音 上下 第一遍.wav,3,bowed_string,3.762607710
+CTIS,CTIS/data/audio.zip,audio/L0072/【盖板（新）D调】演奏技法 滑音、打音、装饰音 第一遍.wav,3,bowed_string,16.856825397
+CTIS,CTIS/data/audio.zip,audio/L0047/【 扬剧主胡（小西皮）】音阶 中速 力度强 第二遍.wav,3,bowed_string,29.700702948
+CTIS,CTIS/data/audio.zip,audio/L0166/【高腔赣胡 第2代】 音阶 慢速 力度弱 1 5 弦 第一遍.wav,3,bowed_string,33.001729167
+CTIS,CTIS/data/audio.zip,audio/L0152/【滇葫（小二胡）】 演奏技法 打音 连打 第二遍.wav,3,bowed_string,3.721104167
+CTIS,CTIS/data/audio.zip,audio/L0053/【广西彩调主胡】音阶 慢速 力度弱 第二遍.wav,3,bowed_string,51.225736961
+CTIS,CTIS/data/audio.zip,audio/L0134/【陇剧陇胡（改良）D调】特有演奏技法 揉弦 第一遍.wav,3,bowed_string,4.891700680
+CTIS,CTIS/data/audio.zip,audio/L0074/【壮剧土胡】演奏技法 颤音 第一遍.wav,3,bowed_string,3.083537415
+CTIS,CTIS/data/audio.zip,audio/L0166/【高腔赣胡 第2代】 演奏技法 打音 单打 第二遍.wav,3,bowed_string,2.214416667
+CTIS,CTIS/data/audio.zip,audio/L0266/【二胡】拉弓技法 空弦音 中等力度 第一遍.wav,3,bowed_string,8.074897959
+CTIS,CTIS/data/audio.zip,audio/L0072/【盖板（新）D调】音阶 慢速 力度中强 第二遍.wav,3,bowed_string,20.550748299
+CTIS,CTIS/data/audio.zip,audio/L0161/【滇胡】 空弦音 力度弱 内外弦 5 2弦 第一遍.wav,3,bowed_string,9.250000000
+CTIS,CTIS/data/audio.zip,audio/L0135/【齐琴】音阶 力度中强 15弦 第二遍.wav,3,bowed_string,49.204739229
+CTIS,CTIS/data/audio.zip,audio/L0150/【宛梆子 梆胡】 演奏技法 颤弓 第二遍.wav,3,bowed_string,5.086104167
+CTIS,CTIS/data/audio.zip,audio/L0149/【绍剧板胡】 演奏技法 打音 连打 第二遍.wav,3,bowed_string,2.778458333
+CTIS,CTIS/data/audio.zip,audio/L0168/【花胡】 演奏技法 华彩 第一遍.wav,3,bowed_string,11.631500000
+CTIS,CTIS/data/audio.zip,audio/L0084/【奚琴（传统）】演奏技法 滑音 第一遍.wav,3,bowed_string,15.703401361
+CTIS,CTIS/data/audio.zip,audio/L0239/【高音板胡】乐曲片段《大起板》.wav,3,bowed_string,38.877346939
+CTIS,CTIS/data/audio.zip,audio/L0170/【二股弦】空弦音 筒音 力度中强 内外弦 第二遍.wav,3,bowed_string,7.000000000
+CTIS,CTIS/data/audio.zip,audio/L0055/【牛腿琴】特有演奏技法 鸟鸣声 第一遍.wav,3,bowed_string,3.535963719
+CTIS,CTIS/data/audio.zip,audio/L0266/【二胡】演奏技法 抛弓 中等力度 速度慢 第一遍.wav,3,bowed_string,10.342925170
+CTIS,CTIS/data/audio.zip,audio/L0085/【奚琴（改良）】音阶 慢速 力度中强 第二遍.wav,3,bowed_string,38.502993197
+CTIS,CTIS/data/audio.zip,audio/L0156/【工胡】空弦音 力度弱 内外弦 第二遍.wav,3,bowed_string,10.302187500
+CTIS,CTIS/data/audio.zip,audio/L0141/【越胡】演奏技法 华彩 第一遍.wav,3,bowed_string,36.494761905
+CTIS,CTIS/data/audio.zip,audio/L0148/【板胡】 音阶 慢速 力度强 第一遍.wav,3,bowed_string,41.685854167
+CTIS,CTIS/data/audio.zip,audio/L0285/【二弦】乐曲片段《福德祠》.wav,3,bowed_string,79.839455782
+CTIS,CTIS/data/audio.zip,audio/L0133/【陇剧陇胡（传统）】空弦音 力度弱 内外弦 第二遍.wav,3,bowed_string,6.159365079
+CTIS,CTIS/data/audio.zip,audio/L0166/【高腔赣胡 第2代】 音阶 力度中强 1 5 弦 第二遍.wav,3,bowed_string,31.001625000
+CTIS,CTIS/data/audio.zip,audio/L0156/【工胡】空弦音 力度中强 内外弦 第一遍.wav,3,bowed_string,5.588458333
+CTIS,CTIS/data/audio.zip,audio/L0086/【中音奚琴（改良）】空弦音 自然衰减 力度强 拉推 第二遍.wav,3,bowed_string,16.498480726
+CTIS,CTIS/data/audio.zip,audio/L0169/【花胡】 音阶 慢速 力度强 5 2 弦 第二遍.wav,3,bowed_string,37.582208333
+CTIS,CTIS/data/audio.zip,audio/L0239/【高音板胡】乐曲片段《大姑娘美》.wav,3,bowed_string,72.434943311
+CTIS,CTIS/data/audio.zip,audio/L0160/【丝弦】演奏技法 揉弦 第二遍.wav,3,bowed_string,4.628125000
+CTIS,CTIS/data/audio.zip,audio/L0167/【黔胡】 演奏技法 颤弓 第二遍.wav,3,bowed_string,9.242833333
+CTIS,CTIS/data/audio.zip,audio/L0163/【雷胡】 演奏技法 长音 内外弦 第一遍.wav,3,bowed_string,19.632062500
+CTIS,CTIS/data/audio.zip,audio/L0053/【广西彩调主胡】特有演奏技法 连打 第一遍.wav,3,bowed_string,4.558412698
+CTIS,CTIS/data/audio.zip,audio/L0307/【芦笙】演奏技巧 单吐 第一遍.wav,3,bowed_string,35.226485261
+CTIS,CTIS/data/audio.zip,audio/L0240/【中音板胡】 代表乐曲5 秦腔牌子曲.wav,3,bowed_string,52.645104167
+CTIS,CTIS/data/audio.zip,audio/L0122/【壳仔弦】空弦音 力度弱 内外弦 第二遍.wav,3,bowed_string,7.257551020
+CTIS,CTIS/data/audio.zip,audio/L0055/【牛腿琴】音阶 慢速 力度弱 第二遍.wav,3,bowed_string,49.000000000
+CTIS,CTIS/data/audio.zip,audio/L0152/【滇葫（小二胡）】 音阶 慢速 力度强 1 5弦 第二遍.wav,3,bowed_string,32.679937500
+CTIS,CTIS/data/audio.zip,audio/L0156/【工胡】空弦音 力度弱 内外弦 第一遍.wav,3,bowed_string,11.849125000
+CTIS,CTIS/data/audio.zip,audio/L0170/【二股弦】空弦音 筒音 力度强 内外弦 第一遍.wav,3,bowed_string,7.166666667
+CTIS,CTIS/data/audio.zip,audio/L0139/【坠胡】特有演奏技法 跳揉 第一遍.wav,3,bowed_string,5.032312925
+CTIS,CTIS/data/audio.zip,audio/L0314/【葫芦琴】空弦音 自然衰减 力度中强 拉弓 第一遍.wav,3,bowed_string,11.334104308
+CTIS,CTIS/data/audio.zip,audio/L0085/【奚琴（改良）】空弦音 自然衰减 力度弱 拉推 第二遍.wav,3,bowed_string,39.894648526
+CTIS,CTIS/data/audio.zip,audio/L0156/【工胡】音阶 力度中强 6 3弦 第一遍.wav,3,bowed_string,23.811625000
+CTIS,CTIS/data/audio.zip,audio/L0148/【板胡】 演奏技法 颤弓 第一遍.wav,3,bowed_string,3.345145833
+CTIS,CTIS/data/audio.zip,audio/L0160/【丝弦】演奏技法 颤弓 第二遍.wav,3,bowed_string,5.245208333
+CTIS,CTIS/data/audio.zip,audio/L0160/【丝弦】演奏技法 滑音 上滑 下滑 第一遍.wav,3,bowed_string,5.245208333
+CTIS,CTIS/data/audio.zip,audio/L0314/【葫芦琴】音阶 自然衰减 力度中强 第一遍.wav,3,bowed_string,75.969455782
+CTIS,CTIS/data/audio.zip,audio/L0154/【仕胡】音阶 慢速 力度弱 2 6弦 第一遍.wav,3,bowed_string,28.655604167
+CTIS,CTIS/data/audio.zip,audio/L0312/【牛角胡】演奏技巧 打音 第二遍.wav,3,bowed_string,16.199229025
+CTIS,CTIS/data/audio.zip,audio/L0084/【奚琴（传统）】音阶 自然衰减 力度中强 第二遍.wav,3,bowed_string,40.434965986
+CTIS,CTIS/data/audio.zip,audio/L0055/【牛腿琴】特有演奏技法 拉、跳弓结合 第二遍.wav,3,bowed_string,5.165056689
+CTIS,CTIS/data/audio.zip,audio/L0139/【坠胡】演奏技法 长音 内外弦 第一遍.wav,3,bowed_string,12.453605442
+CTIS,CTIS/data/audio.zip,audio/L0148/【板胡】 演奏技法 打音 单打 第一遍.wav,3,bowed_string,1.403333333
+CTIS,CTIS/data/audio.zip,audio/L0256/【雷琴】演奏技法 揉弦 第二遍.wav,3,bowed_string,20.914376417
+CTIS,CTIS/data/audio.zip,audio/L0169/【花胡】 演奏技法 颤弓 第二遍.wav,3,bowed_string,2.971437500
+CTIS,CTIS/data/audio.zip,audio/L0053/【广西彩调主胡】演奏技法 长音 内弦 拉 第二遍.wav,3,bowed_string,13.472403628
+CTIS,CTIS/data/audio.zip,audio/L0149/【绍剧板胡】 演奏技法 长音 内外弦 第二遍.wav,3,bowed_string,13.786437500
+CTIS,CTIS/data/audio.zip,audio/L0053/【广西彩调主胡】空弦音 自然衰减 力度弱 内弦 拉 第二遍.wav,3,bowed_string,6.178526077
+CTIS,CTIS/data/audio.zip,audio/L0266/【二胡】分弓 无音头 音阶 中等力度 第一遍.wav,3,bowed_string,58.603015873
+CTIS,CTIS/data/audio.zip,audio/L0047/【 扬剧主胡（小西皮）】演奏技法 打音 第二遍.wav,3,bowed_string,3.140612245

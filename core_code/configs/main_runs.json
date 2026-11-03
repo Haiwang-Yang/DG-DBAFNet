@@ -1,0 +1,53 @@
+{
+  "name": "main_multiseed",
+  "split_seed": 42,
+  "run_seeds": [42, 43, 44, 45, 46],
+  "common": {
+    "epochs": 100,
+    "validation_interval": 1,
+    "batch_size": 256,
+    "weighted_ce": true
+  },
+  "variants": [
+    {
+      "experiment_id": "M0_dg_dbafnet",
+      "backbone": "resnet18",
+      "backbone_init": "imagenet",
+      "branch_mode": "dual",
+      "fusion_type": "agf"
+    },
+    {
+      "experiment_id": "U0_resnet18_uniform_protocol",
+      "backbone": "resnet18",
+      "backbone_init": "imagenet",
+      "branch_mode": "backbone_only",
+      "fusion_type": "none",
+      "pseudo_domain_augment": false,
+      "mixstyle_p": 0.0,
+      "supcon_weight": 0.0,
+      "pdadv_weight": 0.0
+    },
+    {
+      "experiment_id": "U1_resnet50_uniform_protocol",
+      "backbone": "resnet50",
+      "backbone_init": "imagenet",
+      "branch_mode": "backbone_only",
+      "fusion_type": "none",
+      "pseudo_domain_augment": false,
+      "mixstyle_p": 0.0,
+      "supcon_weight": 0.0,
+      "pdadv_weight": 0.0
+    },
+    {
+      "experiment_id": "U2_densenet121_uniform_protocol",
+      "backbone": "densenet121",
+      "backbone_init": "imagenet",
+      "branch_mode": "backbone_only",
+      "fusion_type": "none",
+      "pseudo_domain_augment": false,
+      "mixstyle_p": 0.0,
+      "supcon_weight": 0.0,
+      "pdadv_weight": 0.0
+    }
+  ]
+}
