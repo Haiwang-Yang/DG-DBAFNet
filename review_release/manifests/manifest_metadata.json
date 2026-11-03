@@ -1,0 +1,30 @@
+{
+  "clip_hop_seconds": 5.0,
+  "clip_overlap_seconds": 0.0,
+  "clip_seconds": 5.0,
+  "manifests": {
+    "chmusic_external.csv": {
+      "files": 55,
+      "sha256": "ceec6178ac97f3decfbef9b57c96ecedd50310981096ceebd0f40926612416da"
+    },
+    "ctis_test_seed42.csv": {
+      "files": 996,
+      "sha256": "f7c6152434160662f5d1adfd0b46e2d9ea7e7bcd0be2ccb8dd233108b36e71a5"
+    },
+    "ctis_train_seed42.csv": {
+      "files": 3467,
+      "sha256": "19751166fed9581eba3997debe01e7d9f79970dd83591f704585c287413416a9"
+    },
+    "ctis_validation_seed42.csv": {
+      "files": 493,
+      "sha256": "e12feab60f5fbe9b36d4cd4b26cfedd2c0e969890cd683217aac10fb94af903c"
+    },
+    "folkmusic_external.csv": {
+      "files": 11966,
+      "sha256": "fc96f5e261f87ca890585da09f8d33f2bced382ddc462a3f77bcaa1f0926c037"
+    }
+  },
+  "split_seed": 42,
+  "train_ratio": 0.7,
+  "validation_ratio": 0.1
+}

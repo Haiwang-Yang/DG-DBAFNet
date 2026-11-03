@@ -1,0 +1,58 @@
+{
+  "name": "key_ablation_multiseed",
+  "split_seed": 42,
+  "run_seeds": [42, 43, 44],
+  "common": {
+    "epochs": 100,
+    "validation_interval": 1,
+    "batch_size": 256,
+    "weighted_ce": true
+  },
+  "variants": [
+    {
+      "experiment_id": "M0_dg_dbafnet",
+      "branch_mode": "dual",
+      "fusion_type": "agf"
+    },
+    {
+      "experiment_id": "A1_without_acoustic",
+      "branch_mode": "backbone_only",
+      "fusion_type": "none"
+    },
+    {
+      "experiment_id": "A2_without_resnet18",
+      "branch_mode": "acoustic_only",
+      "fusion_type": "none"
+    },
+    {
+      "experiment_id": "A3_concat",
+      "branch_mode": "dual",
+      "fusion_type": "concat"
+    },
+    {
+      "experiment_id": "D1_without_mixstyle",
+      "mixstyle_p": 0.0
+    },
+    {
+      "experiment_id": "D2_without_supcon",
+      "supcon_weight": 0.0
+    },
+    {
+      "experiment_id": "D3_without_adversarial",
+      "pdadv_weight": 0.0
+    },
+    {
+      "experiment_id": "D7_pseudo_domain_ce",
+      "mixstyle_p": 0.0,
+      "supcon_weight": 0.0,
+      "pdadv_weight": 0.0
+    },
+    {
+      "experiment_id": "D8_source_only_ce",
+      "pseudo_domain_augment": false,
+      "mixstyle_p": 0.0,
+      "supcon_weight": 0.0,
+      "pdadv_weight": 0.0
+    }
+  ]
+}
